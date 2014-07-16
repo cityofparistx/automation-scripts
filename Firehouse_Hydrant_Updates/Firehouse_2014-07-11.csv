@@ -1,0 +1,1259 @@
+Hydr_id        ,Address                                 ,Descript                                          ,CapColor
+000003,"E Plaza & N Plaza /NE corner, NE of foun",Green (1000-1500 gpm)                             ,Green
+000005,"E Plaza & N Plaza /NE corner, NE of foun",Green (1000-1500 gpm)                             ,Green
+000007,"S Plaza & W Plaza /SW corner, SW of foun",Orange (500-1000 gpm)                             ,Orange
+000009,"S Plaza & W Plaza /SW corner, SW of foun",Green (1000-1500 gpm)                             ,Green
+100004,N Main ST & Lamar AVE                   ,Green (1000-1500 gpm)                             ,Green
+100008,SE 1st ST & Lamar AVE                   ,Orange (500-1000 gpm)                             ,Orange
+100012,SE 1st ST & Clarksville ST              ,Orange (500-1000 gpm)                             ,Orange
+100013,S Main ST & E Kaufman ST                ,Green (1000-1500 gpm)                             ,Green
+101002,S Church ST & Lamar AVE                 ,Orange (500-1000 gpm)                             ,Orange
+101012,S Church ST & Clarksville ST            ,Orange (500-1000 gpm)                             ,Orange
+101016,S Church ST & E Kaufman ST              ,Orange (500-1000 gpm)                             ,Orange
+101034,300 S Church ST                         ,Red (400-500 gpm)                                 ,Red
+101054,S Church ST & E Sherman ST              ,Green (1000-1500 gpm)                             ,Green
+101064,S Church ST & E Brame ST                ,Red (400-500 gpm)                                 ,Red
+101108,S Church ST & E Long AVE                ,Unknown                                           ,Unknown
+101123,S Church ST & E Hearne ST /NW Corner    ,Unknown                                           ,Unknown
+101124,1200 S Church ST                        ,Orange (500-1000 gpm)                             ,Orange
+101184,S Church ST & Evergreen ST              ,Green (1000-1500 gpm)                             ,Green
+101194,1900 S Church ST                        ,Green (1000-1500 gpm)                             ,Green
+101214,2150 S Church ST                        ,Green (1000-1500 gpm)                             ,Green
+101224,2250 S Church ST                        ,Green (1000-1500 gpm)                             ,Green
+101234,2350 S Church ST                        ,Green (1000-1500 gpm)                             ,Green
+101244,2450 S Church ST                        ,Green (1000-1500 gpm)                             ,Green
+101246,2460 S Church ST                        ,Green (1000-1500 gpm)                             ,Green
+101254,2500 S Church ST                        ,Green (1000-1500 gpm)                             ,Green
+102018,SE 3rd ST & Clarksville ST              ,Green (1000-1500 gpm)                             ,Green
+102082,SE 3rd ST & E Washington ST             ,Orange (500-1000 gpm)                             ,Orange
+102143,S Church ST & Sycamore ST               ,Orange (500-1000 gpm)                             ,Orange
+102153,1500 S Church ST                        ,Black (0 - 375 gpm)                               ,Black
+102163,S Church ST & E Neagle AVE              ,Orange (500-1000 gpm)                             ,Orange
+102173,S Church ST & E Neagle AVE              ,Green (1000-1500 gpm)                             ,Green
+102285,S Church ST & SE Loop 286               ,Orange (500-1000 gpm)                             ,Orange
+103012,SE 3rd ST & Clarksville ST              ,Green (1000-1500 gpm)                             ,Green
+103019,SE 3rd ST & E Kaufman ST                ,Green (1000-1500 gpm)                             ,Green
+103031,SE 3rd ST & E Austin ST                 ,Green (1000-1500 gpm)                             ,Green
+103049,SE 3rd ST & E Sherman ST                ,Green (1000-1500 gpm)                             ,Green
+103095,957 SE 3rd ST /Across from 958 SE 3rd   ,Orange (500-1000 gpm)                             ,Orange
+103117,SE 3rd ST & E Jackson ST /jackson       ,Orange (500-1000 gpm)                             ,Orange
+103164,SE 3rd ST & Paris BLVD                  ,Green (1000-1500 gpm)                             ,Green
+103171,SE 3rd ST & E Neagle AVE /Neagle        ,Green (1000-1500 gpm)                             ,Green
+103221,2300 SE 3rd ST                          ,Green (1000-1500 gpm)                             ,Green
+103239,SE 3rd ST & York ST                     ,Green (1000-1500 gpm)                             ,Green
+103271,SE 3rd ST & SE Loop 286                 ,Green (1000-1500 gpm)                             ,Green
+103281,SE 3rd ST & SE Loop 286                 ,Green (1000-1500 gpm)                             ,Green
+104002,400 Lamar AVE                           ,Black (0 - 375 gpm)                               ,Black
+104011,400 E Kaufman ST                        ,Green (1000-1500 gpm)                             ,Green
+104012,400 Clarksville ST                      ,Orange (500-1000 gpm)                             ,Orange
+104023,400 E Austin ST /north side             ,Green (1000-1500 gpm)                             ,Green
+104058,SE 5th ST & E Sherman ST                ,Orange (500-1000 gpm)                             ,Orange
+104078,SE 5th ST & Hearon ST                   ,Orange (500-1000 gpm)                             ,Orange
+104088,SE 5th ST & E Washington ST             ,Orange (500-1000 gpm)                             ,Orange
+104096,SE 5th ST & Cedar ST                    ,Orange (500-1000 gpm)                             ,Orange
+104128,SE 5th ST & E Jackson ST                ,Orange (500-1000 gpm)                             ,Orange
+104178,SE 5th ST & E Neagle AVE                ,Green (1000-1500 gpm)                             ,Green
+104273,400 SE Loop 286 /north side             ,Orange (500-1000 gpm)                             ,Orange
+105002,SE 6th ST & Lamar AVE                   ,Green (1000-1500 gpm)                             ,Green
+105014,SE 6th ST & Clarksville ST              ,Green (1000-1500 gpm)                             ,Green
+105032,SE 6th ST & E Austin ST                 ,Green (1000-1500 gpm)                             ,Green
+105092,SE 5th ST & E Polk ST                   ,Orange (500-1000 gpm)                             ,Orange
+105103,504 Cedar ST /SE Corner SE5th and Cedas ,Unknown                                           ,Unknown
+105164,500 Paris BLVD /south side              ,Green (1000-1500 gpm)                             ,Green
+105244,540 YORK ST                             ,Orange (500-1000 gpm)                             ,Orange
+106059,SE 6th ST & E Sherman ST                ,Orange (500-1000 gpm)                             ,Orange
+106081,SE 6th ST & E Polk ST                   ,Orange (500-1000 gpm)                             ,Orange
+106087,600 Cedar ST /NE Corner 6th and Cedar   ,Unknown                                           ,Unknown
+106089,SE 6th ST & Cedar ST                    ,Black (0 - 375 gpm)                               ,Black
+106131,1300 SE 6th ST                          ,Black (0 - 375 gpm)                               ,Black
+106182,SE 6th ST & Evergreen ST                ,Orange (500-1000 gpm)                             ,Orange
+107002,SE 8th ST & Lamar AVE                   ,Black (0 - 375 gpm)                               ,Black
+107012,SE 8th ST & Clarksville ST              ,Orange (500-1000 gpm)                             ,Orange
+107022,SE 6th ST & E Jackson ST                ,Orange (500-1000 gpm)                             ,Orange
+107048,SE 8th ST & E Sherman ST                ,Green (1000-1500 gpm)                             ,Green
+107056,700 E Sherman ST /Legend Health Care    ,Green (1000-1500 gpm)                             ,Green
+107072,SE 8th ST & Hearon ST                   ,Black (0 - 375 gpm)                               ,Black
+107075,790 Jefferson RD /South Baptist Church  ,Orange (500-1000 gpm)                             ,Orange
+107084,SE 8th ST & E Washington ST             ,Black (0 - 375 gpm)                               ,Black
+107102,700 Cedar ST /SW Corner of 8th and cedar,Unknown                                           ,Unknown
+107118,SE 8th ST & E Jackson ST                ,Orange (500-1000 gpm)                             ,Orange
+107134,1300 SE 8th ST /(TRACKS)                ,Black (0 - 375 gpm)                               ,Black
+107152,SE 8th ST & Sycamore ST                 ,Black (0 - 375 gpm)                               ,Black
+107166,SE 8th ST & Old Jefferson RD            ,Orange (500-1000 gpm)                             ,Orange
+108033,SE 8th ST & E Austin ST                 ,Green (1000-1500 gpm)                             ,Green
+108087,SE 8th ST & E Polk ST                   ,Orange (500-1000 gpm)                             ,Orange
+108101,SE 8th ST & Cedar ST                    ,Black (0 - 375 gpm)                               ,Black
+108175,800 New Jefferson RD                    ,Orange (500-1000 gpm)                             ,Orange
+109003,SE 10th ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+109033,SE 9th ST & Woodlawn AVE                ,Green (1000-1500 gpm)                             ,Green
+109034,SE 10th ST & E Austin ST                ,Green (1000-1500 gpm)                             ,Green
+109054,500 SE 10th ST /(West side of Rd.)      ,Green (1000-1500 gpm)                             ,Green
+109055,525 SE 9th ST /east side of street      ,Green (1000-1500 gpm)                             ,Green
+109063,SE 9th ST & Hearon ST                   ,Green (1000-1500 gpm)                             ,Green
+109066,SE 10th ST & Hearon ST /N.W. corner     ,Green (1000-1500 gpm)                             ,Green
+109090,SE 10th ST & E Polk ST                  ,Orange (500-1000 gpm)                             ,Orange
+109118,SE 10th ST & Jackson CT                 ,Orange (500-1000 gpm)                             ,Orange
+109275,900 SE Loop 286 /900 Blk SE Loop 286 (NS,Orange (500-1000 gpm)                             ,Orange
+110012,SE 10th ST & Clarksville ST             ,Black (0 - 375 gpm)                               ,Black
+110043,SE 10th ST & Woodlawn AVE               ,Orange (500-1000 gpm)                             ,Orange
+110161,1000 Jefferson RD /1000 BLK. Old Jeffers,Orange (500-1000 gpm)                             ,Orange
+110275,1000 SE Loop 286 /1000 BLK. SE Loop (N.S,Orange (500-1000 gpm)                             ,Orange
+111012,SE 12th ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+111032,SE 12th ST & E Austin ST                ,Green (1000-1500 gpm)                             ,Green
+111048,SE 12th ST & E Sherman ST               ,Green (1000-1500 gpm)                             ,Green
+111078,SE 12th ST & Hearon ST                  ,Green (1000-1500 gpm)                             ,Green
+111088,SE 12th ST & E Washington ST            ,Green (1000-1500 gpm)                             ,Green
+111102,SE 12th ST & E Polk ST                  ,Green (1000-1500 gpm)                             ,Green
+111108,SE 12th ST & Cedar ST                   ,Green (1000-1500 gpm)                             ,Green
+111122,SE 12th ST & E Jackson ST               ,Green (1000-1500 gpm)                             ,Green
+111275,1100 SE Loop 286 /North side            ,Orange (500-1000 gpm)                             ,Orange
+112004,SE 13th ST & Lamar AVE                  ,Black (0 - 375 gpm)                               ,Black
+112082,SE 13th ST & E Washington ST            ,Green (1000-1500 gpm)                             ,Green
+112112,SE 13th ST & Cedar ST                   ,Red (400-500 gpm)                                 ,Red
+112118,SE 13th ST & E Jackson ST               ,Red (400-500 gpm)                                 ,Red
+112275,1200 SE Loop 286 /1200 blK SE Loop (N.S.,Orange (500-1000 gpm)                             ,Orange
+113017,SE 13th ST & Margaret ST                ,Orange (500-1000 gpm)                             ,Orange
+113051,SE 13th ST & E Sherman ST               ,Orange (500-1000 gpm)                             ,Orange
+113067,SE 13th ST & Neathery ST                ,Orange (500-1000 gpm)                             ,Orange
+113275,1300 SE Loop 286 /Bethel Temple Church  ,Orange (500-1000 gpm)                             ,Orange
+114004,1442 Lamar AVE                          ,Green (1000-1500 gpm)                             ,Green
+114015,1400 Margaret ST                        ,Green (1000-1500 gpm)                             ,Green
+114042,SE 14th ST & Clarksville ST             ,Orange (500-1000 gpm)                             ,Orange
+114047,SE 14th ST & E Sherman ST               ,Orange (500-1000 gpm)                             ,Orange
+114095,1400 E Polk ST                          ,Green (1000-1500 gpm)                             ,Green
+114121,SE 14th ST & E Jackson ST               ,Orange (500-1000 gpm)                             ,Orange
+114125,1200 SE 14th ST /In front of 1265       ,Red (400-500 gpm)                                 ,Red
+115018,SE 16th ST & Margaret ST                ,Green (1000-1500 gpm)                             ,Green
+115057,SE 15th ST & E Brame ST                 ,Green (1000-1500 gpm)                             ,Green
+115085,SE 15th ST & E Washington ST            ,Orange (500-1000 gpm)                             ,Orange
+115107,SE 15th ST & Cedar ST                   ,Red (400-500 gpm)                                 ,Red
+115122,SE 16th ST & E Jackson ST               ,Green (1000-1500 gpm)                             ,Green
+116035,SE 16th ST /341                         ,Black (0 - 375 gpm)                               ,Black
+116095,SE 16th ST & E Polk ST                  ,Green (1000-1500 gpm)                             ,Green
+116118,SE 17th ST & E Jackson ST               ,Green (1000-1500 gpm)                             ,Green
+116175,1600 Jefferson RD                       ,Green (1000-1500 gpm)                             ,Green
+117004,SE 17th ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+117018,SE 17th ST & Margaret ST                ,Green (1000-1500 gpm)                             ,Green
+117033,SE 17th ST & Hubbard ST                 ,Green (1000-1500 gpm)                             ,Green
+117037,SE 17th ST & Cleveland ST               ,Green (1000-1500 gpm)                             ,Green
+117042,SE 17th ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+117065,SE 17th ST & E Brame ST                 ,Green (1000-1500 gpm)                             ,Green
+117077,SE 17th ST & E Washington ST            ,Green (1000-1500 gpm)                             ,Green
+117107,1035 SE 17th ST /Cedar                  ,Unknown                                           ,Unknown
+118004,SE 19th ST & Lamar AVE                  ,Black (0 - 375 gpm)                               ,Black
+118018,SE 19th ST & Margaret ST                ,Orange (500-1000 gpm)                             ,Orange
+118028,SE 19th ST & Hubbard ST                 ,Green (1000-1500 gpm)                             ,Green
+118053,SE 19th ST & Culbertson ST              ,Green (1000-1500 gpm)                             ,Green
+118054,SE 18th ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+118080,18TH. SE 18th ST & E Washington ST      ,Green (1000-1500 gpm)                             ,Green
+118091,1800 E Polk ST /1801 E Polk             ,Green (1000-1500 gpm)                             ,Green
+118118,SE 19th ST & E Jackson ST               ,Orange (500-1000 gpm)                             ,Orange
+118121,1800 Jackson CT /NW Corner of complex   ,Green (1000-1500 gpm)                             ,Green
+118125,Jackson CT /South Side                  ,Green (1000-1500 gpm)                             ,Green
+119032,SE 20th ST & Hubbard ST                 ,Green (1000-1500 gpm)                             ,Green
+119038,SE 20th ST & Cleveland ST               ,Green (1000-1500 gpm)                             ,Green
+119043,SE 19th ST & Cleveland ST               ,Green (1000-1500 gpm)                             ,Green
+119048,SE 20th ST & Culbertson ST /NW Corner   ,Green (1000-1500 gpm)                             ,Green
+119058,SE 20th ST & Simpson ST                 ,Orange (500-1000 gpm)                             ,Orange
+119062,SE 19th ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+119088,SE 20th ST & E Washington ST            ,Green (1000-1500 gpm)                             ,Green
+119090,SE 19th ST & E Washington ST            ,Green (1000-1500 gpm)                             ,Green
+119140,SE 19th ST & Bella Vista DR             ,Orange (500-1000 gpm)                             ,Orange
+119195,1900 Jefferson RD                       ,Green (1000-1500 gpm)                             ,Green
+120004,SE 20th ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+120008,SE 21st ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+120038,2000 blk Cleveland ST                   ,Green (1000-1500 gpm)                             ,Green
+120072,SE 20th ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+120099,SE 20th ST & E Polk ST                  ,Green (1000-1500 gpm)                             ,Green
+120122,SE 21st ST & E Jackson ST               ,Green (1000-1500 gpm)                             ,Green
+120125,1200 SE 20th ST                         ,Green (1000-1500 gpm)                             ,Green
+120205,2000 Jefferson RD                       ,Green (1000-1500 gpm)                             ,Green
+121032,SE 22nd ST & Hubbard ST                 ,Green (1000-1500 gpm)                             ,Green
+121038,SE 22nd ST & Cleveland ST               ,Green (1000-1500 gpm)                             ,Green
+121048,SE 22nd ST & Culbertson ST              ,Green (1000-1500 gpm)                             ,Green
+121052,SE 22nd ST & Culbertson ST              ,Orange (500-1000 gpm)                             ,Orange
+121058,SE 22nd ST & Simpson ST                 ,Green (1000-1500 gpm)                             ,Green
+121112,SE 22nd ST & Cedar ST                   ,Green (1000-1500 gpm)                             ,Green
+121139,SE 22nd ST & Bella Vista DR             ,Orange (500-1000 gpm)                             ,Orange
+122032,SE 23rd ST & Hubbard ST                 ,Green (1000-1500 gpm)                             ,Green
+122062,SE 23rd ST & Simpson ST                 ,Green (1000-1500 gpm)                             ,Green
+122074,SE 22nd ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+122103,SE 23rd ST & E Polk ST                  ,Green (1000-1500 gpm)                             ,Green
+122118,SE 23rd ST & E Jackson ST               ,Green (1000-1500 gpm)                             ,Green
+122125,2210 College ST /clow                   ,Green (1000-1500 gpm)                             ,Green
+122135,SE 23rd ST & Bella Vista DR             ,Green (1000-1500 gpm)                             ,Green
+123004,SE 23rd ST & Lamar AVE /SE Corner       ,Green (1000-1500 gpm)                             ,Green
+123048,SE 24th ST & Culbertson ST              ,Green (1000-1500 gpm)                             ,Green
+123054,SE 24th ST & Culbertson ST              ,Green (1000-1500 gpm)                             ,Green
+123072,SE 24th ST & Clark LN                   ,Green (1000-1500 gpm)                             ,Green
+123082,SE 24th ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+123193,2300 Jefferson RD /Behind Station 4 (ns),Green (1000-1500 gpm)                             ,Green
+123202,2400 Jefferson RD /west entrance Paris J,Green (1000-1500 gpm)                             ,Green
+123204,SE 24th ST & Jefferson RD /Paris High   ,Green (1000-1500 gpm)                             ,Green
+123213,2400 Jefferson RD /SW corner Paris Jr. H,Green (1000-1500 gpm)                             ,Green
+123216,2400 Jefferson RD /s.e. corner Paris Jr.,Green (1000-1500 gpm)                             ,Green
+124023,SE 24th ST & Hubbard ST                 ,Green (1000-1500 gpm)                             ,Green
+124028,SE 25th ST & Hubbard ST /n.w. corner    ,Green (1000-1500 gpm)                             ,Green
+124103,SE 24th ST & E Polk ST                  ,Green (1000-1500 gpm)                             ,Green
+124104,2400 Clarksville ST /PJC N.W. corner    ,Green (1000-1500 gpm)                             ,Green
+124105,1000 SE 24th ST /1000 Block Dragon-PJC  ,Green (1000-1500 gpm)                             ,Green
+124113,2400 Clarksville ST /PJC north of tennis,Black (0 - 375 gpm)                               ,Black
+124117,1100 SE 24th ST /Dragon - PJC           ,Green (1000-1500 gpm)                             ,Green
+124125,2400 Clarksville ST /PJC by maintenance ,Green (1000-1500 gpm)                             ,Green
+124133,1300 SE 24th ST                         ,Green (1000-1500 gpm)                             ,Green
+124143,1400 SE 24th ST /army reserve           ,Green (1000-1500 gpm)                             ,Green
+124147,SE 24th ST & Sycamore ST                ,Green (1000-1500 gpm)                             ,Green
+124183,1800 SE 24th ST                         ,Green (1000-1500 gpm)                             ,Green
+125006,2500 Lamar AVE /south side              ,Green (1000-1500 gpm)                             ,Green
+125011,100 blk SE 25th ST /East side of street ,Green (1000-1500 gpm)                             ,Green
+125015,2600 Lamar AVE /park lane apts midway   ,Green (1000-1500 gpm)                             ,Green
+125048,SE 25th ST & Culbertson ST              ,Green (1000-1500 gpm)                             ,Green
+125071,SE 25th ST & Clark LN                   ,Green (1000-1500 gpm)                             ,Green
+125083,2500 Clarksville ST /n.s..              ,Green (1000-1500 gpm)                             ,Green
+125104,2500 Clarksville ST /PJC Science Lab    ,Green (1000-1500 gpm)                             ,Green
+125116,2400 Clarksville ST /PJC east of cafeter,Green (1000-1500 gpm)                             ,Green
+125122,2400 Clarksville ST /s.w. corner Applied,Black (0 - 375 gpm)                               ,Black
+125126,2500 Clarksville ST /PJC SE Welding Shop,Green (1000-1500 gpm)                             ,Green
+126006,2600 Lamar AVE                          ,Green (1000-1500 gpm)                             ,Green
+126031,SE 26th ST & Hubbard ST                 ,Green (1000-1500 gpm)                             ,Green
+126059,SE 26th ST & Simpson ST                 ,Green (1000-1500 gpm)                             ,Green
+126069,SE 26th ST & Clark LN                   ,Green (1000-1500 gpm)                             ,Green
+126085,2525 Clarksville ST /n.s.               ,Green (1000-1500 gpm)                             ,Green
+126125,2400 Clarksville ST /n.w. corner Hunt Ce,Green (1000-1500 gpm)                             ,Green
+127079,S Collegiate DR & Clark LN              ,Green (1000-1500 gpm)                             ,Green
+127103,S Collegiate DR & Clarksville ST        ,Green (1000-1500 gpm)                             ,Green
+128033,S Collegiate DR & Hubbard ST            ,Green (1000-1500 gpm)                             ,Green
+128055,S Collegiate DR & Simpson ST            ,Green (1000-1500 gpm)                             ,Green
+128084,800 Blk S Collegiate DR                 ,Green (1000-1500 gpm)                             ,Green
+128089,SE 28th ST & Mahaffey LN                ,Green (1000-1500 gpm)                             ,Green
+128136,1300 S Collegiate DR                    ,Green (1000-1500 gpm)                             ,Green
+128205,2025 S Collegiate DR /NE corcer of parki,Green (1000-1500 gpm)                             ,Green
+128206,2025 S Collegiate DR /Civic Center      ,Green (1000-1500 gpm)                             ,Green
+128207,2025 S Collegiate DR /North East Corner ,Green (1000-1500 gpm)                             ,Green
+128209,2025 S Collegiate DR /South West Corner ,Green (1000-1500 gpm)                             ,Green
+129019,2900 Margaret ST                        ,Orange (500-1000 gpm)                             ,Orange
+129025,200 S Collegiate DR /East side          ,Green (1000-1500 gpm)                             ,Green
+129032,Johnson Woods DR & Hubbard ST           ,Orange (500-1000 gpm)                             ,Orange
+129036,2900 Hubbard ST                         ,Green (1000-1500 gpm)                             ,Green
+129082,Johnson Woods DR & Clark LN             ,Green (1000-1500 gpm)                             ,Green
+129084,2900 Clark LN                           ,Green (1000-1500 gpm)                             ,Green
+129101,Abbott LN & Pride CIR                   ,Green (1000-1500 gpm)                             ,Green
+129109,SE 29th ST & Carson LN                  ,Green (1000-1500 gpm)                             ,Green
+129112,2910 Clarksville ST /Police Dept        ,Green (1000-1500 gpm)                             ,Green
+129114,2910 Clarksville ST /Paris Police Dept. ,Green (1000-1500 gpm)                             ,Green
+129116,2910 Clarksville ST /Paris Police Dept S,Green (1000-1500 gpm)                             ,Green
+129123,3010 Clarksville ST /Phillips Lighting (,Green (1000-1500 gpm)                             ,Green
+129125,3010 Clarksville ST /N. American Phillip,Green (1000-1500 gpm)                             ,Green
+129127,3010 Clarksville ST /N. American Phillip,Green (1000-1500 gpm)                             ,Green
+129129,3010 Clarksville ST /N. American Phillip,Green (1000-1500 gpm)                             ,Green
+129204,2025 S Collegiate DR /Civic Center S of ,Green (1000-1500 gpm)                             ,Green
+129215,2200 S Collegiate DR /South entrance of ,Green (1000-1500 gpm)                             ,Green
+129221,2200 S Collegiate DR & Jefferson RD     ,Green (1000-1500 gpm)                             ,Green
+129243,2400 S Collegiate DR                    ,Green (1000-1500 gpm)                             ,Green
+129255,2500 S Collegiate DR /Paris High School ,Green (1000-1500 gpm)                             ,Green
+129267,2600 S Collegiate DR /Paris High School ,Green (1000-1500 gpm)                             ,Green
+130053,535 JOHNSON WOODS DR                    ,Green (1000-1500 gpm)                             ,Green
+130091,Johnson Woods DR & Abbott LN            ,Green (1000-1500 gpm)                             ,Green
+130111,Johnson Woods DR & Pride CIR            ,Green (1000-1500 gpm)                             ,Green
+130113,3100 Clarksville ST /W. of EZ Mart      ,Green (1000-1500 gpm)                             ,Green
+130114,3000 Clarksville ST /N.W. corner in Ally,Green (1000-1500 gpm)                             ,Green
+130116,3000 Clarksville ST /Park Place shopping,Green (1000-1500 gpm)                             ,Green
+130125,3000 Clarksville ST /S.W. corner        ,Green (1000-1500 gpm)                             ,Green
+130206,2025 S Collegiate DR /Civic Center south,Green (1000-1500 gpm)                             ,Green
+130253,2500 S Collegiate DR /Paris High School ,Unknown                                           ,Unknown
+130255,3200 Jefferson RD /Paris High School / F,Green (1000-1500 gpm)                             ,Green
+130267,2500 S Collegiate DR /Paris High School/,Green (1000-1500 gpm)                             ,Green
+130269,2500 S Collegiate DR /PHS Stadium       ,Green (1000-1500 gpm)                             ,Green
+130273,3100 SE Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+130275,3200 SE Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+131021,SE 31st ST & Margaret ST                ,Green (1000-1500 gpm)                             ,Green
+131022,SE 32nd ST & Margaret ST /Margret       ,Green (1000-1500 gpm)                             ,Green
+131049,Laurel LN & Allen ST                    ,Red (400-500 gpm)                                 ,Red
+131051,SE 31st ST & Dogwood LN                 ,Green (1000-1500 gpm)                             ,Green
+131052,SE 32nd ST & Allen ST                   ,Red (400-500 gpm)                                 ,Red
+131061,SE 31st ST & Allen ST                   ,Green (1000-1500 gpm)                             ,Green
+131066,Laurel LN & Clark LN                    ,Green (1000-1500 gpm)                             ,Green
+131068,SE 32nd ST & Clark LN                   ,Green (1000-1500 gpm)                             ,Green
+131083,Laurel LN & Mahaffey LN                 ,Green (1000-1500 gpm)                             ,Green
+131101,SE 31st ST & Abbott LN                  ,Green (1000-1500 gpm)                             ,Green
+131109,SE 31st ST & Stacy LN                   ,Green (1000-1500 gpm)                             ,Green
+131113,3125 Clarksville ST /E. side of spanish ,Green (1000-1500 gpm)                             ,Green
+131114,3000 Clarksville ST /east middle - front,Green (1000-1500 gpm)                             ,Green
+131115,3165 Stacy LN                           ,Green (1000-1500 gpm)                             ,Green
+131123,3000 Clarksville ST /S.E. Corner - behin,Blue (1500+ gpm)                                  ,Blue
+131223,3100 Jefferson RD /North Side of Rd in F,Green (1000-1500 gpm)                             ,Green
+132004,SE 32nd ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+132005,SE 33rd ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+132008,3200 Lamar AVE /By Bank                 ,Green (1000-1500 gpm)                             ,Green
+132022,SE 33rd ST & Margaret ST                ,Green (1000-1500 gpm)                             ,Green
+132041,SE 32nd ST & Cleveland ST /Cleveland    ,Green (1000-1500 gpm)                             ,Green
+132042,SE 33rd ST & Cleveland ST               ,Green (1000-1500 gpm)                             ,Green
+132063,Clark LN & Wilburn DR                   ,Orange (500-1000 gpm)                             ,Orange
+132085,Wilburn DR & Mahaffey LN                ,Green (1000-1500 gpm)                             ,Green
+132095,3200 Abbott LN /In 3200 BLK             ,Orange (500-1000 gpm)                             ,Orange
+132114,3200 Clarksville ST /PCA                ,Blue (1500+ gpm)                                  ,Blue
+132116,3200 Clarksville ST /East side PCA parki,Green (1000-1500 gpm)                             ,Green
+132124,3200 Clarksville ST /Rear of PCA bldg.  ,Green (1000-1500 gpm)                             ,Green
+132225,3200 Jefferson RD /North side of Jeffers,Green (1000-1500 gpm)                             ,Green
+132275,3300 SE Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+133033,SE 33rd ST & Hubbard ST                 ,Green (1000-1500 gpm)                             ,Green
+133038,SE 34th ST & Cleveland ST               ,Green (1000-1500 gpm)                             ,Green
+133065,SE 33rd ST /600 DP                      ,Green (1000-1500 gpm)                             ,Green
+133089,SE 33rd ST & Audubon RD                 ,Green (1000-1500 gpm)                             ,Green
+133098,SE 33rd ST & Hyde ST                    ,Green (1000-1500 gpm)                             ,Green
+133123,SE 33rd ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+133265,3400 SE Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+134006,3400blk Lamar AVE /3400 Blk (church)    ,Green (1000-1500 gpm)                             ,Green
+134025,200 NE 35th ST                          ,Orange (500-1000 gpm)                             ,Orange
+134098,SE 34th ST & Hyde ST                    ,Green (1000-1500 gpm)                             ,Green
+134124,Clarksville ST /3400 Blk - Golden Acres ,Green (1000-1500 gpm)                             ,Green
+134125,Clarksville ST /3200 Blk By Office      ,Green (1000-1500 gpm)                             ,Green
+135006,3500 Lamar AVE /Mirabeau entrance       ,Green (1000-1500 gpm)                             ,Green
+135011,3500 Lamar AVE /alley behind Hobby Lobby,Green (1000-1500 gpm)                             ,Green
+135014,3500 Lamar AVE /Near 3592 address       ,Green (1000-1500 gpm)                             ,Green
+135033,3500 Lamar AVE /sw corner of alley      ,Green (1000-1500 gpm)                             ,Green
+135036,3500 Lamar AVE /mirabeau by j.c. penney ,Green (1000-1500 gpm)                             ,Green
+135050,5000 SE Loop 286 /Mirabeau (east entranc,Green (1000-1500 gpm)                             ,Green
+135075,3500 Audubon RD /3500 block             ,Orange (500-1000 gpm)                             ,Orange
+135094,900 SE 36th ST /900 block               ,Green (1000-1500 gpm)                             ,Green
+135104,1000 Cardinal LN                        ,Green (1000-1500 gpm)                             ,Green
+135123,SE 36th ST & Clarksville ST             ,Green (1000-1500 gpm)                             ,Green
+135124,3500 Clarksville ST /Springlake Baptist ,Green (1000-1500 gpm)                             ,Green
+135126,Clarksville ST /3500 Blk - Pshigoda Foun,Green (1000-1500 gpm)                             ,Green
+136002,3600 Lamar AVE /CVS at Loop and Lamar   ,Green (1000-1500 gpm)                             ,Green
+136014,5280 SE SE Loop 286 /Panda Express      ,Unknown                                           ,Unknown
+136050,5075 SE Loop 286 /U P Church rear parkin,Green (1000-1500 gpm)                             ,Green
+136084,SE Loop 286 /Across from Dawn Drive     ,Green (1000-1500 gpm)                             ,Green
+136135,3600 Clarksville ST /In field behind Psh,Orange (500-1000 gpm)                             ,Orange
+137018,200 Carrie LN                           ,Green (1000-1500 gpm)                             ,Green
+137021,SE Loop 286 & Carrie LN                 ,Green (1000-1500 gpm)                             ,Green
+137029,3800 Carrie LN                          ,Green (1000-1500 gpm)                             ,Green
+137051,SE Loop 286 & Leigh DR                  ,Green (1000-1500 gpm)                             ,Green
+137054,5050 SE Loop 286 /paris news            ,Green (1000-1500 gpm)                             ,Green
+137058,5050 SE Loop 286 /Behind Paris News     ,Green (1000-1500 gpm)                             ,Green
+137068,Brandi LN & SE 38th ST                  ,Green (1000-1500 gpm)                             ,Green
+137082,SE Loop 286 & Dawn DR                   ,Green (1000-1500 gpm)                             ,Green
+137124,3700 Clarksville ST /3700 block         ,Orange (500-1000 gpm)                             ,Orange
+137275,3700 SE Loop 286 & Jefferson RD         ,Orange (500-1000 gpm)                             ,Orange
+138231,Jefferson RD & SE Loop 286              ,Orange (500-1000 gpm)                             ,Orange
+138233,3800 SE Loop 286 /paris roofing         ,Orange (500-1000 gpm)                             ,Orange
+138263,3800 Jefferson RD                       ,Orange (500-1000 gpm)                             ,Orange
+139004,3924 Lamar AVE /Petco Parking Lot       ,Green (1000-1500 gpm)                             ,Green
+139016,3900 Lamar AVE /Behind Petco            ,Green (1000-1500 gpm)                             ,Green
+139025,200 SE 39th ST /200 block               ,Green (1000-1500 gpm)                             ,Green
+139051,SE 39th ST & Holbrook ST                ,Green (1000-1500 gpm)                             ,Green
+139053,SE 39th ST & Morningside DR             ,Green (1000-1500 gpm)                             ,Green
+139063,SE 39th ST & Miranda DR                 ,Green (1000-1500 gpm)                             ,Green
+139079,SE 39th ST & Dawn DR                    ,Green (1000-1500 gpm)                             ,Green
+139104,3900 BLK. Brandlyn                      ,Orange (500-1000 gpm)                             ,Orange
+139235,3925 SE Loop 286 /New Hope Church       ,Orange (500-1000 gpm)                             ,Orange
+139252,3910 SE Loop 286 /Lighthouse Church     ,Orange (500-1000 gpm)                             ,Orange
+139262,2600 SE 40th ST                         ,Red (400-500 gpm)                                 ,Red
+139278,2700 SE 40th ST /2770 SE 40th           ,Orange (500-1000 gpm)                             ,Orange
+139298,SE 40th ST & Jefferson RD               ,Orange (500-1000 gpm)                             ,Orange
+140105,4000 Misty LN                           ,Orange (500-1000 gpm)                             ,Orange
+140221,2200 SE 40th ST                         ,Orange (500-1000 gpm)                             ,Orange
+140230,4055 SE Loop 286 /Covenant Christian Chu,Orange (500-1000 gpm)                             ,Orange
+140235,2300 SE 40th ST                         ,Orange (500-1000 gpm)                             ,Orange
+140262,2610 SE 41st ST                         ,Orange (500-1000 gpm)                             ,Orange
+140272,2730 SE 41st ST                         ,Orange (500-1000 gpm)                             ,Orange
+140294,2950 SE 41st ST                         ,Orange (500-1000 gpm)                             ,Orange
+141010,4102 Primrose CT                        ,Orange (500-1000 gpm)                             ,Orange
+141012,SE 42nd ST & Primrose CT                ,Orange (500-1000 gpm)                             ,Orange
+141028,SE 42nd ST & Oleander ST                ,Orange (500-1000 gpm)                             ,Orange
+141062,SE 42nd ST & Miranda DR                 ,Green (1000-1500 gpm)                             ,Green
+141078,SE 42nd ST & Dawn DR                    ,Green (1000-1500 gpm)                             ,Green
+141088,SE 42nd ST & Morningside DR             ,Green (1000-1500 gpm)                             ,Green
+141102,SE 42nd ST & Brandyn PL                 ,Green (1000-1500 gpm)                             ,Green
+141252,SE 41st ST & SE Loop 286                ,Orange (500-1000 gpm)                             ,Orange
+142006,SE 42nd ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+142015,4260 Primrose CT                        ,Green (1000-1500 gpm)                             ,Green
+142043,SE 42nd ST & Alpine ST                  ,Green (1000-1500 gpm)                             ,Green
+142225,4225 SE Loop 286 /Entrance to 4225 SE Lo,Orange (500-1000 gpm)                             ,Orange
+143002,4300 Lamar AVE                          ,Green (1000-1500 gpm)                             ,Green
+143196,4300 SE Loop 286 /Inside of Loop on Fenc,Orange (500-1000 gpm)                             ,Orange
+144002,4400 Lamar AVE                          ,Green (1000-1500 gpm)                             ,Green
+144086,4445 SE Loop 286 /Hayter Engineering    ,Green (1000-1500 gpm)                             ,Green
+145000,4500 Lamar AVE /Dentist Office          ,Green (1000-1500 gpm)                             ,Green
+145002,4550 Lamar AVE /Dr Jacksons Clinic      ,Green (1000-1500 gpm)                             ,Green
+145072,Paradise DR & Ripplewood ST             ,Green (1000-1500 gpm)                             ,Green
+145098,Old Clarksville RD & Paradise DR        ,Green (1000-1500 gpm)                             ,Green
+146002,4600 Lamar AVE /Behind Century 21       ,Orange (500-1000 gpm)                             ,Orange
+146004,100 SE 47th ST                          ,Orange (500-1000 gpm)                             ,Orange
+146012,150 SE 47th ST /Heritage House of Paris ,Orange (500-1000 gpm)                             ,Orange
+146014,150 SE 47th ST /Heritage House of Paris ,Orange (500-1000 gpm)                             ,Orange
+146065,500 Sherwood DR                         ,Orange (500-1000 gpm)                             ,Orange
+146072,SE 47th ST & Lombardy ST                ,Green (1000-1500 gpm)                             ,Green
+146098,SE 47th ST & Old Clarksville RD         ,Green (1000-1500 gpm)                             ,Green
+147014,100 SE 48th ST                          ,Green (1000-1500 gpm)                             ,Green
+148005,4800 Eastgate LN                        ,Green (1000-1500 gpm)                             ,Green
+148014,100 SE 49th ST                          ,Green (1000-1500 gpm)                             ,Green
+167211,2100 Farm Road 1508 /Airport Entrance   ,Orange (500-1000 gpm)                             ,Orange
+167215,6780 Collier DR /Fuel Building          ,Unknown                                           ,Unknown
+167217,6780 Collier DR /Hanger D               ,Orange (500-1000 gpm)                             ,Orange
+167219,6780 Collier DR /Hanger I               ,Orange (500-1000 gpm)                             ,Orange
+167223,6780 Collier DR /@ Terminal             ,Orange (500-1000 gpm)                             ,Orange
+200004,SW 1st ST & Grand AVE                   ,Orange (500-1000 gpm)                             ,Orange
+200012,S Main ST & Clarksville ST              ,Green (1000-1500 gpm)                             ,Green
+200013,SW 1st ST & W Kaufman ST                ,Green (1000-1500 gpm)                             ,Green
+200034,S Main ST & W Austin ST                 ,Orange (500-1000 gpm)                             ,Orange
+200052,S Main ST & W Sherman ST                ,Orange (500-1000 gpm)                             ,Orange
+200064,S Main ST & E Brame ST                  ,Green (1000-1500 gpm)                             ,Green
+200084,S Main ST & W Washington ST             ,Green (1000-1500 gpm)                             ,Green
+200123,1200 S Main ST                          ,Orange (500-1000 gpm)                             ,Orange
+200124,1200 S Main ST                          ,Orange (500-1000 gpm)                             ,Orange
+200125,SW 1st ST & W Hearne ST                 ,Orange (500-1000 gpm)                             ,Orange
+200135,1300 SW 1st ST /RR tracks @ Pole        ,Orange (500-1000 gpm)                             ,Orange
+200139,1300 SW 1st ST /S of RR Tracks          ,Orange (500-1000 gpm)                             ,Orange
+200143,S Main ST & Sycamore ST                 ,Orange (500-1000 gpm)                             ,Orange
+200163,S Main ST & Paris BLVD                  ,Green (1000-1500 gpm)                             ,Green
+200173,S Main ST & E Neagle AVE                ,Green (1000-1500 gpm)                             ,Green
+201001,SW 2nd ST & Bonham ST                   ,Orange (500-1000 gpm)                             ,Orange
+201013,SW 2nd ST & Grand AVE                   ,Red (400-500 gpm)                                 ,Red
+201033,SW 2nd ST & W Austin ST                 ,Green (1000-1500 gpm)                             ,Green
+201034,SW 1st ST & W Austin ST                 ,Green (1000-1500 gpm)                             ,Green
+201044,SW 1st ST & W Sherman ST                ,Green (1000-1500 gpm)                             ,Green
+201054,SW 1st ST & W Brame ST                  ,Green (1000-1500 gpm)                             ,Green
+201074,SW 1st ST & W Washington ST             ,Orange (500-1000 gpm)                             ,Orange
+201104,SW 1st ST & Brown AVE                   ,Green (1000-1500 gpm)                             ,Green
+201124,1200 SW 1st ST                          ,Green (1000-1500 gpm)                             ,Green
+201142,1401 SW 3rd ST /Rogers & Wade (north sid,Orange (500-1000 gpm)                             ,Orange
+201175,125 W Neagle ST /South Side             ,Green (1000-1500 gpm)                             ,Green
+202003,SW 3rd ST & Bonham ST                   ,Red (400-500 gpm)                                 ,Red
+202012,SW 2nd ST & W Kaufman ST                ,Green (1000-1500 gpm)                             ,Green
+202013,SW 3rd ST & Grand AVE                   ,Orange (500-1000 gpm)                             ,Orange
+202047,SW 3rd ST & W Sherman ST                ,Orange (500-1000 gpm)                             ,Orange
+202051,SW 2nd ST & W Sherman ST                ,Green (1000-1500 gpm)                             ,Green
+202057,SW 3rd ST & W Brame ST                  ,Orange (500-1000 gpm)                             ,Orange
+202079,SW 3rd ST & W Washington ST /NE Corner  ,Black (0 - 375 gpm)                               ,Black
+202111,SW 3rd ST & Frisco AVE                  ,Green (1000-1500 gpm)                             ,Green
+202141,SW 3rd ST & Sycamore ST                 ,Orange (500-1000 gpm)                             ,Orange
+203003,SW 4th ST & Bonham ST                   ,Green (1000-1500 gpm)                             ,Green
+203013,SW 4th ST & Grand AVE                   ,Orange (500-1000 gpm)                             ,Orange
+203017,SW 4th ST & W Kaufman ST                ,Green (1000-1500 gpm)                             ,Green
+203022,SW 3rd ST & W Kaufman ST                ,Green (1000-1500 gpm)                             ,Green
+203033,300 SW 4th ST                           ,Green (1000-1500 gpm)                             ,Green
+203078,SW 4th ST & W Washington ST             ,Green (1000-1500 gpm)                             ,Green
+203082,SW 3rd ST & W Washington ST /SW Corner  ,Green (1000-1500 gpm)                             ,Green
+203093,SW 4th ST & Parr AVE                    ,Orange (500-1000 gpm)                             ,Orange
+203102,SW 3rd ST & Brown AVE                   ,Green (1000-1500 gpm)                             ,Green
+203145,1400 BLK SW 4th ST /Access fr Rogers-Wad,Orange (500-1000 gpm)                             ,Orange
+203171,SW 4th ST & W Neagle ST                 ,Orange (500-1000 gpm)                             ,Orange
+203253,2510 S Church ST                        ,Green (1000-1500 gpm)                             ,Green
+204042,SW 4th ST & W Sherman ST                ,Green (1000-1500 gpm)                             ,Green
+204056,SW 4th ST & W Brame ST                  ,Green (1000-1500 gpm)                             ,Green
+204112,SW 4th ST & Brown AVE                   ,Black (0 - 375 gpm)                               ,Black
+204118,SW 4th ST & Frisco AVE                  ,Red (400-500 gpm)                                 ,Red
+204136,1300 SW 4th ST                          ,Orange (500-1000 gpm)                             ,Orange
+204146,1400 SW 4th ST /behind RR Storage       ,Orange (500-1000 gpm)                             ,Orange
+205015,520 Grand AVE /South Side               ,Black (0 - 375 gpm)                               ,Black
+205016,500 W Kaufman ST                        ,Green (1000-1500 gpm)                             ,Green
+205022,SW 5th ST & W Austin ST                 ,Orange (500-1000 gpm)                             ,Orange
+205108,SW 6th ST & Brown AVE                   ,Red (400-500 gpm)                                 ,Red
+205292,2900 S Church ST /2902 S Church         ,Green (1000-1500 gpm)                             ,Green
+206003,SW 7th ST & Bonham ST                   ,Orange (500-1000 gpm)                             ,Orange
+206081,SW 7th ST & W Washington ST             ,Orange (500-1000 gpm)                             ,Orange
+206086,SW 6th ST & Parr AVE                    ,Red (400-500 gpm)                                 ,Red
+206253,2500 SW 7th ST /SE Corner of the Entranc,Green (1000-1500 gpm)                             ,Green
+207018,SW 7th ST & W Kaufman ST                ,Green (1000-1500 gpm)                             ,Green
+207019,SW 8th ST & W Kaufman ST                ,Green (1000-1500 gpm)                             ,Green
+207028,SW 7th ST & W Austin ST                 ,Orange (500-1000 gpm)                             ,Orange
+207052,SW 7th ST & W Sherman ST                ,Green (1000-1500 gpm)                             ,Green
+207222,SW 7th ST & Field RD                    ,Green (1000-1500 gpm)                             ,Green
+207282,2800 SW 7th ST & SW Loop 286 /SW Loop 28,Green (1000-1500 gpm)                             ,Green
+207292,3250 S Church ST /NE Chism Middle School,Green (1000-1500 gpm)                             ,Green
+207296,3250 S Church ST /SE Chism Middle School,Green (1000-1500 gpm)                             ,Green
+207302,3250 S Church ST /North Chism Elem.     ,Green (1000-1500 gpm)                             ,Green
+207312,3250 S Church ST /Chism Elem. (East Driv,Green (1000-1500 gpm)                             ,Green
+207332,3250 S Church ST /Chism High School (Eas,Green (1000-1500 gpm)                             ,Green
+207336,3250 S Church ST /NW Corner-back lot of ,Green (1000-1500 gpm)                             ,Green
+208033,SW 9th ST & W Austin ST                 ,Orange (500-1000 gpm)                             ,Orange
+208051,SW 8th ST & W Sherman ST                ,Green (1000-1500 gpm)                             ,Green
+208063,SW 9th ST & W Brame ST                  ,Orange (500-1000 gpm)                             ,Orange
+208066,SW 9th ST & Chism ST                    ,Orange (500-1000 gpm)                             ,Orange
+209055,900 W Sherman ST                        ,Green (1000-1500 gpm)                             ,Green
+209085,900 W Washington ST                     ,Orange (500-1000 gpm)                             ,Orange
+210013,SW 11th ST & W Kaufman ST               ,Green (1000-1500 gpm)                             ,Green
+210215,1000 Field RD /City Composte Pile       ,Green (1000-1500 gpm)                             ,Green
+210305,3250 S Church ST /Chisum ISD Bus Barn   ,Green (1000-1500 gpm)                             ,Green
+210352,3500 Texas Highway 19/24                ,Green (1000-1500 gpm)                             ,Green
+210364,3600 Texas Highway 19/24                ,Green (1000-1500 gpm)                             ,Green
+211005,"1100 Bonham ST /By the Depot, south side",Green (1000-1500 gpm)                             ,Green
+211076,1100 W Washington ST                    ,Green (1000-1500 gpm)                             ,Green
+211376,3700 Texas Highway 19/24                ,Green (1000-1500 gpm)                             ,Green
+212003,SW 12th ST & Bonham ST /12th S.W.       ,Orange (500-1000 gpm)                             ,Orange
+212037,SW 13th ST & Sperry AVE                 ,Green (1000-1500 gpm)                             ,Green
+212047,SW 12th ST & W Sherman ST /12TH SW      ,Green (1000-1500 gpm)                             ,Green
+212053,SW 13th ST & W Sherman ST               ,Green (1000-1500 gpm)                             ,Green
+212067,SW 13th ST & W Brame ST                 ,Green (1000-1500 gpm)                             ,Green
+212077,SW 13th ST & W Washington ST            ,Green (1000-1500 gpm)                             ,Green
+212278,SW 13th ST & SW Loop 286                ,Green (1000-1500 gpm)                             ,Green
+212388,3800 Texas Highway 19/24                ,Green (1000-1500 gpm)                             ,Green
+213022,SW 13th ST & W Kaufman ST               ,Green (1000-1500 gpm)                             ,Green
+213074,1400 W Washington ST                    ,Green (1000-1500 gpm)                             ,Green
+213078,1400 W Washington ST /Front of building ,Green (1000-1500 gpm)                             ,Green
+213234,2300 SW 13th ST                         ,Green (1000-1500 gpm)                             ,Green
+213244,2400 SW 13th ST                         ,Green (1000-1500 gpm)                             ,Green
+213264,2600 SW 13th ST                         ,Green (1000-1500 gpm)                             ,Green
+213402,4000 Texas Highway 19/24                ,Green (1000-1500 gpm)                             ,Green
+213424,4200 Texas Highway 19/24                ,Green (1000-1500 gpm)                             ,Green
+214003,1400 Bonham ST                          ,Orange (500-1000 gpm)                             ,Orange
+214022,SW 15th ST & W Kaufman ST               ,Green (1000-1500 gpm)                             ,Green
+214031,1400 W Austin ST                        ,Green (1000-1500 gpm)                             ,Green
+214032,SW 15th ST & W Austin ST                ,Green (1000-1500 gpm)                             ,Green
+214232,2300 SW 13th ST /South corner of HWH Com,Green (1000-1500 gpm)                             ,Green
+214234,2300 SW 13th ST /Inside the loading dock,Green (1000-1500 gpm)                             ,Green
+214236,SW 13th ST /Near outside office of H W H,Green (1000-1500 gpm)                             ,Green
+214238,2300 SW 13th ST /S W end of H W H       ,Green (1000-1500 gpm)                             ,Green
+215041,SW 15th ST & Sperry AVE                 ,Black (0 - 375 gpm)                               ,Black
+216003,SW 16th ST & Bonham ST                  ,Orange (500-1000 gpm)                             ,Orange
+217003,SW 18th ST & Bonham ST                  ,Black (0 - 375 gpm)                               ,Black
+217022,SW 17th ST & W Kaufman ST               ,Green (1000-1500 gpm)                             ,Green
+217032,SW 17th ST & W Austin ST                ,Green (1000-1500 gpm)                             ,Green
+217033,SW 18th ST & W Austin ST                ,Green (1000-1500 gpm)                             ,Green
+217074,1700 W Washington ST                    ,Green (1000-1500 gpm)                             ,Green
+218017,SW 19th ST & W Kaufman ST               ,Green (1000-1500 gpm)                             ,Green
+218053,SW 19th ST & W Sherman ST               ,Green (1000-1500 gpm)                             ,Green
+219003,SW 19th ST & Bonham ST                  ,Orange (500-1000 gpm)                             ,Orange
+219032,SW 19th ST & W Austin ST                ,Green (1000-1500 gpm)                             ,Green
+219044,1900 W Sherman ST /1970 W. Sherman      ,Unknown                                           ,Unknown
+219078,SW 19th ST & Old Bonham RD              ,Green (1000-1500 gpm)                             ,Green
+219080,SW 19th ST & W Washington ST            ,Green (1000-1500 gpm)                             ,Green
+219112,SW 19th ST & Brown AVE                  ,Green (1000-1500 gpm)                             ,Green
+219122,1200 SW 19th ST /1200 D.P. (Turner Pipe ,Green (1000-1500 gpm)                             ,Green
+219124,1300 SW 19th ST /West side across from L,Unknown                                           ,Unknown
+219164,1690 SW 19th ST /Southside RW Cox       ,Green (1000-1500 gpm)                             ,Green
+219166,1600 SW 19th ST                         ,Unknown                                           ,Unknown
+219184,1800 SW 19th ST                         ,Unknown                                           ,Unknown
+219194,2000 SW 19th ST & SW Loop 286 /Northwest,Green (1000-1500 gpm)                             ,Green
+219204,SW 19th ST & SW Loop 286                ,Green (1000-1500 gpm)                             ,Green
+220003,2000 blk Bonham ST /South Side          ,Green (1000-1500 gpm)                             ,Green
+221003,SW 21st ST & Bonham ST /SW Corner       ,Black (0 - 375 gpm)                               ,Black
+221018,SW 21st ST & W Austin ST                ,Green (1000-1500 gpm)                             ,Green
+221021,SW 22nd ST & W Kaufman ST               ,Green (1000-1500 gpm)                             ,Green
+221062,2100 Old Bonham RD                      ,Green (1000-1500 gpm)                             ,Green
+221235,2135 SW Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+222003,SW 23rd ST & Bonham ST                  ,Orange (500-1000 gpm)                             ,Orange
+222022,2200 W Austin ST                        ,Green (1000-1500 gpm)                             ,Green
+222066,2200 Old Bonham RD                      ,Green (1000-1500 gpm)                             ,Green
+222165,1600 SW 19th ST /at R/R Tracks east side,Green (1000-1500 gpm)                             ,Green
+223023,2300 W Kaufman ST                       ,Green (1000-1500 gpm)                             ,Green
+223026,2300 W Austin ST                        ,Green (1000-1500 gpm)                             ,Green
+223066,2300 Old Bonham RD                      ,Green (1000-1500 gpm)                             ,Green
+224023,SW 25th ST & W Kaufman ST               ,Green (1000-1500 gpm)                             ,Green
+224033,SW 25th ST & W Austin ST                ,Green (1000-1500 gpm)                             ,Green
+225052,SW 25th ST & W Sherman ST               ,Green (1000-1500 gpm)                             ,Green
+225062,SW 25th ST & W Brame ST                 ,Green (1000-1500 gpm)                             ,Green
+225078,SW 25th ST & Old Bonham RD              ,Green (1000-1500 gpm)                             ,Green
+225526,5200 Texas Highway 19/24                ,Green (1000-1500 gpm)                             ,Green
+226052,SW 26th ST & W Sherman ST               ,Green (1000-1500 gpm)                             ,Green
+226058,SW 26th ST & W Brame ST                 ,Green (1000-1500 gpm)                             ,Green
+226059,2600 W Sherman ST                       ,Green (1000-1500 gpm)                             ,Green
+227003,SW 27th ST & Bonham ST                  ,Green (1000-1500 gpm)                             ,Green
+227011,SW 28th ST & W Kaufman ST               ,Green (1000-1500 gpm)                             ,Green
+227225,2200 Farm Road 137 /across FM137 in fron,Orange (500-1000 gpm)                             ,Orange
+228003,SW 29th ST & Bonham ST                  ,Green (1000-1500 gpm)                             ,Green
+228598,5900 Texas Highway 19/24                ,Green (1000-1500 gpm)                             ,Green
+229019,SW 30th ST & W Kaufman ST               ,Orange (500-1000 gpm)                             ,Orange
+229641,6400 Texas Highway 19/24 /E. side - pass,Green (1000-1500 gpm)                             ,Green
+229663,6600 Texas Highway 19/24 /E.side passed ,Green (1000-1500 gpm)                             ,Green
+230021,SW 31st ST & W Kaufman ST               ,Orange (500-1000 gpm)                             ,Orange
+230049,SW 31st ST & W Sherman ST               ,Orange (500-1000 gpm)                             ,Orange
+231003,SW 31st ST & Bonham ST                  ,Green (1000-1500 gpm)                             ,Green
+232003,SW 33rd ST & Bonham ST                  ,Green (1000-1500 gpm)                             ,Green
+232018,SW 32nd ST & W Kaufman ST               ,Green (1000-1500 gpm)                             ,Green
+233031,300 SW 33rd ST                          ,Green (1000-1500 gpm)                             ,Green
+233035,300 SW 34th ST                          ,Green (1000-1500 gpm)                             ,Green
+234003,SW 34th ST & Bonham ST                  ,Green (1000-1500 gpm)                             ,Green
+234013,100 Parc Quest DR                       ,Green (1000-1500 gpm)                             ,Green
+235003,Bonham ST & Parc Quest DR               ,Green (1000-1500 gpm)                             ,Green
+235012,200 Parc Quest DR                       ,Green (1000-1500 gpm)                             ,Green
+235022,Parc Quest DR & Parc PL                 ,Green (1000-1500 gpm)                             ,Green
+235025,Parc PL /CUL-DE-SAC                     ,Green (1000-1500 gpm)                             ,Green
+235030,Chateau PL /Cul-de-sac                  ,Green (1000-1500 gpm)                             ,Green
+236005,Bonham ST & SW Loop 286                 ,Green (1000-1500 gpm)                             ,Green
+236111,SW Loop 286 & Old Bonham RD /TXDOT      ,Green (1000-1500 gpm)                             ,Green
+237089,3700 SW Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+238054,500 SW 39th ST /North of Sage Trail     ,Orange (500-1000 gpm)                             ,Orange
+238067,3800 SW Loop 286 /Across Loop from Churc,Orange (500-1000 gpm)                             ,Orange
+239001,3900 Bonham ST                          ,Green (1000-1500 gpm)                             ,Green
+239055,3900 SW Loop 286 /Across from Sage Trail,Green (1000-1500 gpm)                             ,Green
+240003,Bonham ST & SW 41st ST                  ,Green (1000-1500 gpm)                             ,Green
+240033,4000 SW Loop 286 /Across from Sage Trail,Green (1000-1500 gpm)                             ,Green
+240043,400 SW 41st ST                          ,Green (1000-1500 gpm)                             ,Green
+240075,700 SW 41st ST                          ,Orange (500-1000 gpm)                             ,Orange
+240093,900 SW 41st ST                          ,Green (1000-1500 gpm)                             ,Green
+240104,4000 Old Bonham RD                      ,Orange (500-1000 gpm)                             ,Orange
+242003,4800 Bonham ST /BROCKWAYS               ,Green (1000-1500 gpm)                             ,Green
+242011,4200 SW Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+242036,SW 42nd ST & Choctaw LN                 ,Orange (500-1000 gpm)                             ,Orange
+242068,SW 42nd ST & Sage TRL                   ,Green (1000-1500 gpm)                             ,Green
+242078,SW 42nd ST & Meadow Park DR             ,Green (1000-1500 gpm)                             ,Green
+242108,SW 42nd ST & Old Bonham RD              ,Green (1000-1500 gpm)                             ,Green
+243003,4300 Bonham ST                          ,Green (1000-1500 gpm)                             ,Green
+244014,150 SW 44th ST                          ,Green (1000-1500 gpm)                             ,Green
+245003,SW 45th ST & Bonham ST                  ,Green (1000-1500 gpm)                             ,Green
+245038,Choctaw LN & SW 45th ST                 ,Green (1000-1500 gpm)                             ,Green
+246003,Bonham ST & SW 46th ST                  ,Green (1000-1500 gpm)                             ,Green
+246038,Choctaw LN & SW 46th ST                 ,Green (1000-1500 gpm)                             ,Green
+300002,Bonham ST & NW 1st ST                   ,Orange (500-1000 gpm)                             ,Orange
+300011,N Main ST & W Houston ST                ,Orange (500-1000 gpm)                             ,Orange
+300012,W Houston ST & NW 1st ST                ,Black (0 - 375 gpm)                               ,Black
+300021,N Main ST & E Price ST                  ,Green (1000-1500 gpm)                             ,Green
+300029,N Main ST & Graham ST                   ,Green (1000-1500 gpm)                             ,Green
+300034,W Cherry ST & NW 1st ST                 ,Green (1000-1500 gpm)                             ,Green
+300039,N Main ST & E Cherry ST                 ,Green (1000-1500 gpm)                             ,Green
+300054,500 NW 1st ST                           ,Black (0 - 375 gpm)                               ,Black
+300111,N Main ST & Santa Fe ST                 ,Orange (500-1000 gpm)                             ,Orange
+300135,1300 blk N Main ST /By Harmar Bottling  ,Orange (500-1000 gpm)                             ,Orange
+300149,N Main ST & W Hickory ST                ,Orange (500-1000 gpm)                             ,Orange
+300154,50 W Hickory ST                         ,Orange (500-1000 gpm)                             ,Orange
+300163,N Main ST & W Center ST                 ,Green (1000-1500 gpm)                             ,Green
+300164,60 W Center ST                          ,Green (1000-1500 gpm)                             ,Green
+300165,55 W Oak AVE                            ,Green (1000-1500 gpm)                             ,Green
+300173,1715 N Main ST /1700 blk.               ,Green (1000-1500 gpm)                             ,Green
+300187,1865 N Main ST & Clement RD             ,Green (1000-1500 gpm)                             ,Green
+300201,2101 N Main ST /271 ave. (n.w.)         ,Green (1000-1500 gpm)                             ,Green
+300223,2155 N Main ST /2200 d.p. (Williams bros,Green (1000-1500 gpm)                             ,Green
+300231,2300 blk N Main ST /Cash & Carry Furnitu,Unknown                                           ,Unknown
+300233,2335 N Main ST /2300 (bowling)          ,Green (1000-1500 gpm)                             ,Green
+300247,2475 N Main ST /2400 d.p.(Taco Casa)    ,Green (1000-1500 gpm)                             ,Green
+300265,2600 N Main ST /West side of street     ,Green (1000-1500 gpm)                             ,Green
+300285,2800 N Main ST /DPS Office              ,Green (1000-1500 gpm)                             ,Green
+300293,2900 BL. N Main ST /West side of street ,Green (1000-1500 gpm)                             ,Green
+300315,3000 N Main ST /Tire Shop               ,Green (1000-1500 gpm)                             ,Green
+300325,3200 N Main ST /Scales                  ,Green (1000-1500 gpm)                             ,Green
+300335,3300 N Main ST /Sansom's                ,Green (1000-1500 gpm)                             ,Green
+300345,3400 N Main ST /Trinity                 ,Green (1000-1500 gpm)                             ,Green
+300355,3535 N Main ST /McCoy's                 ,Green (1000-1500 gpm)                             ,Green
+301023,W Price ST & NW 1st ST                  ,Orange (500-1000 gpm)                             ,Orange
+301103,Santa Fe ST & NW 1st ST                 ,Red (400-500 gpm)                                 ,Red
+301173,1715 N Main ST /town parc building 1 (ap,Green (1000-1500 gpm)                             ,Green
+301177,1715 N Main ST /Front of Apt. 1303      ,Green (1000-1500 gpm)                             ,Green
+301241,2400 N Main ST /s.e. corner (Atwood's)  ,Green (1000-1500 gpm)                             ,Green
+301243,100 NW Loop 286 /FRONT OF ATTWOODS      ,Orange (500-1000 gpm)                             ,Orange
+301264,100 NW Loop 286 /OUTSIDE LOOP ON RAMP   ,Green (1000-1500 gpm)                             ,Green
+301295,2905 N Main ST /(Paris Oaks in back)    ,Green (1000-1500 gpm)                             ,Green
+302002,Bonham ST & NW 2nd ST                   ,Orange (500-1000 gpm)                             ,Orange
+302011,W Houston ST & NW 2nd ST                ,Orange (500-1000 gpm)                             ,Orange
+302012,W Houston ST & NW 3rd ST                ,Red (400-500 gpm)                                 ,Red
+302018,200 W Price ST                          ,Orange (500-1000 gpm)                             ,Orange
+302022,W Price ST & NW 3rd ST                  ,Orange (500-1000 gpm)                             ,Orange
+302032,Plum ST & NW 3rd ST                     ,Red (400-500 gpm)                                 ,Red
+302042,NW 3rd ST & W Cherry ST                 ,Green (1000-1500 gpm)                             ,Green
+302084,NW 3rd ST & W Provine ST                ,Orange (500-1000 gpm)                             ,Orange
+302118,NW 3rd ST & W Henderson ST              ,Red (400-500 gpm)                                 ,Red
+302164,200 W Center ST                         ,Green (1000-1500 gpm)                             ,Green
+302201,200 Drive-in AVE                        ,Green (1000-1500 gpm)                             ,Green
+303027,NW 4th ST & Graham ST                   ,Green (1000-1500 gpm)                             ,Green
+303048,NW 4th ST & W Cherry ST                 ,Orange (500-1000 gpm)                             ,Orange
+303071,709 NW 3rd ST & Shiloh ST               ,Red (400-500 gpm)                                 ,Red
+303072,NW 4th ST & Shiloh ST                   ,Orange (500-1000 gpm)                             ,Orange
+303082,NW 4th ST & W Provine ST                ,Orange (500-1000 gpm)                             ,Orange
+303094,NW 4th ST & Campbell ST                 ,Orange (500-1000 gpm)                             ,Orange
+303095,NW 3rd ST & Campbell ST                 ,Red (400-500 gpm)                                 ,Red
+304048,NW 5th ST & W Cherry ST                 ,Green (1000-1500 gpm)                             ,Green
+304068,NW 5th ST & Shiloh ST                   ,Red (400-500 gpm)                                 ,Red
+304164,400 W Center ST                         ,Green (1000-1500 gpm)                             ,Green
+305035,300 NW 5th ST                           ,Green (1000-1500 gpm)                             ,Green
+305077,NW 5th ST & W Provine ST                ,Green (1000-1500 gpm)                             ,Green
+305078,NW 6th ST & W Provine ST                ,Green (1000-1500 gpm)                             ,Green
+305275,500 NW Loop 286 /Campbell Soup west side,Unknown                                           ,Unknown
+306048,NW 7th ST & W Cherry ST                 ,Green (1000-1500 gpm)                             ,Green
+306068,NW 7th ST & Shiloh ST                   ,Green (1000-1500 gpm)                             ,Green
+306082,800 NW 7th ST /NE Corner of 7th and Prov,Unknown                                           ,Unknown
+306092,NW 7th ST & Campbell ST                 ,Green (1000-1500 gpm)                             ,Green
+306122,NW 7th ST & W Henderson ST              ,Green (1000-1500 gpm)                             ,Green
+306146,1400 NW 7th ST & Park ST                ,Unknown                                           ,Unknown
+306174,1700 NW 7th ST                          ,Green (1000-1500 gpm)                             ,Green
+307021,NW 7th ST & W Houston ST                ,Green (1000-1500 gpm)                             ,Green
+307026,700 W Houston ST                        ,Green (1000-1500 gpm)                             ,Green
+307033,NW 7th ST & Graham ST                   ,Green (1000-1500 gpm)                             ,Green
+307063,635 NW 7th ST /Westgate Apt. / middle of,Green (1000-1500 gpm)                             ,Green
+307067,600 NW 7th ST /NW 7th and Shilos west Si,Unknown                                           ,Unknown
+307107,1000 NW 7th ST                          ,Unknown                                           ,Unknown
+307117,1100 NW 7th ST /SW Corner 7th and Hender,Unknown                                           ,Unknown
+307126,700 Blk. W Henderson ST                 ,Green (1000-1500 gpm)                             ,Green
+307135,1300 NW 7th ST /west side of sterrt     ,Unknown                                           ,Unknown
+307174,700 W Center ST                         ,Green (1000-1500 gpm)                             ,Green
+307178,SESAME PLANT (E. MIDDLE)                ,Green (1000-1500 gpm)                             ,Green
+308002,NW 9th ST & Bonham ST                   ,Orange (500-1000 gpm)                             ,Orange
+308042,NW 9th ST & Dickson AVE                 ,Black (0 - 375 gpm)                               ,Black
+308054,NW 9th ST & W Cherry ST                 ,Green (1000-1500 gpm)                             ,Green
+308067,635 NW 7th ST /Westgate Apt. / West End ,Green (1000-1500 gpm)                             ,Green
+308072,NW 9th ST & W shiloh                    ,Orange (500-1000 gpm)                             ,Orange
+308082,NW 9th ST & Campbell ST                 ,Orange (500-1000 gpm)                             ,Orange
+308100,800 W Garrett ST /NE Corner NW 9th and G,Unknown                                           ,Unknown
+308102,NW 9th ST & W garrett ST                ,Green (1000-1500 gpm)                             ,Green
+308123,NW 9th ST & W Henderson ST              ,Green (1000-1500 gpm)                             ,Green
+309013,NW 9th ST & W Houston ST                ,Green (1000-1500 gpm)                             ,Green
+309025,NW 9th ST & Graham ST                   ,Green (1000-1500 gpm)                             ,Green
+309138,NW 10th ST & W Henderson ST             ,Green (1000-1500 gpm)                             ,Green
+309146,NW 10th ST & Park ST                    ,Green (1000-1500 gpm)                             ,Green
+309174,900 W Center ST /Paris Packaging Inc    ,Green (1000-1500 gpm)                             ,Green
+310012,NW 11th ST & Conner AVE                 ,Green (1000-1500 gpm)                             ,Green
+310067,NW 11th ST & Shiloh ST                  ,Green (1000-1500 gpm)                             ,Green
+310134,1000 W Henderson ST                     ,Green (1000-1500 gpm)                             ,Green
+310142,1400 NW 11th ST                         ,Green (1000-1500 gpm)                             ,Green
+311043,NW 11th ST & W Cherry ST                ,Green (1000-1500 gpm)                             ,Green
+311053,1100 W Cherry ST /NW Corner of 11th and ,Unknown                                           ,Unknown
+311083,NW 11th ST & Campbell ST                ,Orange (500-1000 gpm)                             ,Orange
+311134,1100 W Henderson ST                     ,Green (1000-1500 gpm)                             ,Green
+311215,1160 NW Loop 286 & (Goodwill )          ,Green (1000-1500 gpm)                             ,Green
+311225,1100 NW Loop 286 & ( Eagles Lodge )     ,Green (1000-1500 gpm)                             ,Green
+312003,NW 12th ST & Bonham ST                  ,Green (1000-1500 gpm)                             ,Green
+312004,NW 13th ST & Bonham ST                  ,Green (1000-1500 gpm)                             ,Green
+312023,NW 12th ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+312043,NW 12th ST & W Cherry ST                ,Orange (500-1000 gpm)                             ,Orange
+312088,NW 13th ST & Campbell ST                ,Orange (500-1000 gpm)                             ,Orange
+313007,NW 13th ST & Maple AVE                  ,Green (1000-1500 gpm)                             ,Green
+313011,NW 13th ST & W Houston ST               ,Green (1000-1500 gpm)                             ,Green
+313023,NW 13th ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+313054,500 blk NW 14th ST                      ,Green (1000-1500 gpm)                             ,Green
+313056,1300 blk W Cherry ST                    ,Green (1000-1500 gpm)                             ,Green
+313071,NW 13th ST & Shiloh ST                  ,Orange (500-1000 gpm)                             ,Orange
+313078,NW 14th ST & Walker ST                  ,Green (1000-1500 gpm)                             ,Green
+313107,NW 13th ST & Cooper ST                  ,Green (1000-1500 gpm)                             ,Green
+313132,NW 13th ST & W Henderson ST             ,Green (1000-1500 gpm)                             ,Green
+314017,NW 14th ST & W Houston ST               ,Orange (500-1000 gpm)                             ,Orange
+314021,NW 14th ST & Graham ST                  ,Orange (500-1000 gpm)                             ,Orange
+314063,600 blk NW 14th ST /Across from Booth in,Green (1000-1500 gpm)                             ,Green
+314134,NW 15th ST & W Henderson ST             ,Green (1000-1500 gpm)                             ,Green
+315072,NW 16th ST & Shiloh ST                  ,Green (1000-1500 gpm)                             ,Green
+315078,NW 16th ST & Walker ST                  ,Green (1000-1500 gpm)                             ,Green
+315083,NW 15th ST & Campbell ST                ,Green (1000-1500 gpm)                             ,Green
+315088,NW 16th ST & Campbell ST                ,Green (1000-1500 gpm)                             ,Green
+315102,NW 16th ST & W Long ST                  ,Green (1000-1500 gpm)                             ,Green
+315114,1100 Blk NW 16th ST                     ,Green (1000-1500 gpm)                             ,Green
+315125,1200 NW 15th ST /1200                   ,Green (1000-1500 gpm)                             ,Green
+315157,1500 Blk W Center ST                    ,Green (1000-1500 gpm)                             ,Green
+315168,1500 Bk W Center ST                     ,Green (1000-1500 gpm)                             ,Green
+316008,NW 17th ST & Maple AVE                  ,Green (1000-1500 gpm)                             ,Green
+316092,NW 17th ST & Campbell ST                ,Green (1000-1500 gpm)                             ,Green
+316122,1200 NW 17th ST                         ,Green (1000-1500 gpm)                             ,Green
+316125,1215 NW 16th ST                         ,Green (1000-1500 gpm)                             ,Green
+316132,NW 16th ST & W Henderson ST             ,Green (1000-1500 gpm)                             ,Green
+316184,1600 W Center ST                        ,Blue (1500+ gpm)                                  ,Blue
+317005,1700 Maple AVE /Behind Dollar General   ,Unknown                                           ,Unknown
+317013,NW 17th ST & W Houston ST               ,Orange (500-1000 gpm)                             ,Orange
+317023,NW 17th ST & Graham ST                  ,Orange (500-1000 gpm)                             ,Orange
+317068,NW 18th ST & Shiloh ST                  ,Green (1000-1500 gpm)                             ,Green
+317082,NW 18th ST & Walker ST /NE Corner       ,Green (1000-1500 gpm)                             ,Green
+317085,1700 blk Campbell ST /South Side middle ,Orange (500-1000 gpm)                             ,Orange
+317122,1200 NW 18th ST                         ,Green (1000-1500 gpm)                             ,Green
+317130,NW 17th ST & W Henderson ST             ,Green (1000-1500 gpm)                             ,Green
+317186,1700 W Center ST /Near Sara Lee FDC on N,Green (1000-1500 gpm)                             ,Green
+317222,1700 NW Loop 286 /Alternator Shop       ,Green (1000-1500 gpm)                             ,Green
+318008,NW 19th ST & Maple AVE                  ,Green (1000-1500 gpm)                             ,Green
+318018,NW 19th ST & W Houston ST               ,Red (400-500 gpm)                                 ,Red
+318026,NW 19th ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+318050,NW 19th ST & Plum ST                    ,Red (400-500 gpm)                                 ,Red
+318072,NW 19th ST & Shiloh ST                  ,Green (1000-1500 gpm)                             ,Green
+318078,NW 19th ST & Walker ST                  ,Green (1000-1500 gpm)                             ,Green
+318092,NW 19th ST & Campbell ST                ,Orange (500-1000 gpm)                             ,Orange
+318130,NW 18th ST & W Henderson ST             ,Green (1000-1500 gpm)                             ,Green
+318132,1300 NW 19th ST                         ,Green (1000-1500 gpm)                             ,Green
+318142,NW 19th ST & W Henderson ST             ,Blue (1500+ gpm)                                  ,Blue
+318146,1418 NW 19th ST                         ,Green (1000-1500 gpm)                             ,Green
+318148,1460 NW 19th ST                         ,Green (1000-1500 gpm)                             ,Green
+318184,NW 19th ST & W Center ST                ,Green (1000-1500 gpm)                             ,Green
+318194,1900 NW 19th ST                         ,Green (1000-1500 gpm)                             ,Green
+318212,NW 19th ST & NW Loop 286                ,Green (1000-1500 gpm)                             ,Green
+318254,2500 NW 19th ST                         ,Green (1000-1500 gpm)                             ,Green
+318322,3200 NW 19th ST /east side of 19th      ,Orange (500-1000 gpm)                             ,Orange
+319068,NW 20th ST & Shiloh ST                  ,Green (1000-1500 gpm)                             ,Green
+319078,NW 20th ST & Walker ST                  ,Green (1000-1500 gpm)                             ,Green
+319147,NW 19th ST & Park ST                    ,Green (1000-1500 gpm)                             ,Green
+319183,1800 NW 19th ST                         ,Green (1000-1500 gpm)                             ,Green
+319205,NW 19th ST & NW Loop 286                ,Green (1000-1500 gpm)                             ,Green
+319215,NW 19th ST & NW Loop 286                ,Green (1000-1500 gpm)                             ,Green
+320085,2000 Campbell ST                        ,Green (1000-1500 gpm)                             ,Green
+320185,2100 NW Loop 286 /SE corner of ERDOC par,Green (1000-1500 gpm)                             ,Green
+320214,2000 NW Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+321023,2100 Graham ST                          ,Green (1000-1500 gpm)                             ,Green
+321064,NW 21st ST & W Cherry ST                ,Green (1000-1500 gpm)                             ,Green
+321135,1300 NW 19th ST /P. Bible Church        ,Green (1000-1500 gpm)                             ,Green
+322071,NW 22nd ST & Shiloh ST                  ,Green (1000-1500 gpm)                             ,Green
+322149,2200 Park ST                            ,Orange (500-1000 gpm)                             ,Orange
+323023,NW 23rd ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+323048,NW 24th ST & Plum ST                    ,Green (1000-1500 gpm)                             ,Green
+323077,NW 23rd ST & Walker ST                  ,Green (1000-1500 gpm)                             ,Green
+323185,2300 NW Loop 286 /old superior switcboar,Green (1000-1500 gpm)                             ,Green
+323193,2300 NW Loop 286 /front of superior swit,Black (0 - 375 gpm)                               ,Black
+323202,2300 NW Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+324011,NW 24th ST & W Houston ST               ,Green (1000-1500 gpm)                             ,Green
+324059,NW 24th ST & W Cherry ST                ,Green (1000-1500 gpm)                             ,Green
+324226,2460 Farm Road 79                       ,Green (1000-1500 gpm)                             ,Green
+324235,2400 Yoder RD /Mac's                    ,Green (1000-1500 gpm)                             ,Green
+325019,NW 25th ST & W Houston ST               ,Green (1000-1500 gpm)                             ,Green
+325023,NW 25th ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+325094,2500 Campbell ST /2500 block            ,Green (1000-1500 gpm)                             ,Green
+325154,2500 Park ST /In field west of 2200 Park,Green (1000-1500 gpm)                             ,Green
+326018,NW 27th ST & W Houston ST               ,Green (1000-1500 gpm)                             ,Green
+326032,2600 Graham ST /2600 block              ,Green (1000-1500 gpm)                             ,Green
+326038,NW 27th ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+326052,500 NW 27th ST                          ,Green (1000-1500 gpm)                             ,Green
+326088,NW 27th ST & Campbell ST                ,Green (1000-1500 gpm)                             ,Green
+326156,2600 Park ST /in field east of park stre,Green (1000-1500 gpm)                             ,Green
+326224,2650 Farm Road 79                       ,Green (1000-1500 gpm)                             ,Green
+327068,NW 28th ST & Shiloh ST                  ,Green (1000-1500 gpm)                             ,Green
+327152,2700 Park ST /2700 block north side of s,Green (1000-1500 gpm)                             ,Green
+328023,NW 28th ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+328055,500 NW 28th ST                          ,Green (1000-1500 gpm)                             ,Green
+328091,NW 28th ST & Campbell ST                ,Green (1000-1500 gpm)                             ,Green
+328203,2810 NW Loop 286 /ENTRANCE              ,Green (1000-1500 gpm)                             ,Green
+328205,2810 NW Loop 286 /FRONT DOOR            ,Green (1000-1500 gpm)                             ,Green
+328207,2810 NW Loop 286 /EXIT                  ,Green (1000-1500 gpm)                             ,Green
+329025,NW 30th ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+329094,2900 Campbell ST /2900 BLOCK            ,Green (1000-1500 gpm)                             ,Green
+329136,1300 NW 30th ST /South of Park Street ap,Blue (1500+ gpm)                                  ,Blue
+329154,2900 Park ST /north side of street      ,Green (1000-1500 gpm)                             ,Green
+329156,1500 NW 30th ST /At Sprinkler Connection,Blue (1500+ gpm)                                  ,Blue
+329162,1600 NW 30th ST /East side of street    ,Green (1000-1500 gpm)                             ,Green
+329246,2400 blk NW 30th ST /east side          ,Green (1000-1500 gpm)                             ,Green
+330091,NW 30th ST & Campbell ST                ,Green (1000-1500 gpm)                             ,Green
+331024,NW 32nd ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+332015,100 blk NW 32nd ST /100 Division Post   ,Green (1000-1500 gpm)                             ,Green
+333016,100 blk NW 34th ST /100 Division Post   ,Orange (500-1000 gpm)                             ,Orange
+333034,NW 34th ST & Graham ST                  ,Orange (500-1000 gpm)                             ,Orange
+333092,NW 34th ST & Campbell ST                ,Blue (1500+ gpm)                                  ,Blue
+334099,NW 34th ST & Campbell ST                ,Green (1000-1500 gpm)                             ,Green
+335016,100 NW 36th ST                          ,Orange (500-1000 gpm)                             ,Orange
+336004,Bonham ST & NW Loop 286                 ,Green (1000-1500 gpm)                             ,Green
+336034,NW 36th ST & Graham ST                  ,Green (1000-1500 gpm)                             ,Green
+337036,NW Loop 286 & Graham ST                 ,Green (1000-1500 gpm)                             ,Green
+352004,5200 Bonham ST                          ,Unknown                                           ,Unknown
+400028,NE 1st ST & Pine Bluff ST               ,Green (1000-1500 gpm)                             ,Green
+400063,600 NE 1st ST                           ,Orange (500-1000 gpm)                             ,Orange
+400077,N Main ST & E Provine ST                ,Black (0 - 375 gpm)                               ,Black
+400112,N Main ST & Martin Luther King Jr. DR   ,Green (1000-1500 gpm)                             ,Green
+400148,NE 1st ST & E Hickory ST                ,Green (1000-1500 gpm)                             ,Green
+400164,N Main ST & E Center ST                 ,Green (1000-1500 gpm)                             ,Green
+400169,NE 1st ST & E Oak AVE                   ,Unknown                                           ,Unknown
+400208,2026 N Main ST /east side               ,Green (1000-1500 gpm)                             ,Green
+400247,2400 N Main ST /Whataburger             ,Green (1000-1500 gpm)                             ,Green
+400254,2510 N Main ST                          ,Green (1000-1500 gpm)                             ,Green
+400264,N Main ST & DeShong DR                  ,Green (1000-1500 gpm)                             ,Green
+400286,N Main ST & Stone AVE                   ,Green (1000-1500 gpm)                             ,Green
+400296,2900 N Main ST /Ivan Smith Furniture    ,Green (1000-1500 gpm)                             ,Green
+400356,3500 N Main ST /Bodacious BBQ           ,Green (1000-1500 gpm)                             ,Green
+401012,NE 1st ST & E Houston ST                ,Orange (500-1000 gpm)                             ,Orange
+401018,NE 1st ST & E Price ST                  ,Orange (500-1000 gpm)                             ,Orange
+401033,NE 2nd ST & E Cherry ST                 ,Black (0 - 375 gpm)                               ,Black
+401044,NE 2nd ST & E Booth ST /booth           ,Black (0 - 375 gpm)                               ,Black
+401103,NE 2nd ST & Phillips ST                 ,Green (1000-1500 gpm)                             ,Green
+401127,100 Martin Luther King Jr. DR /N. S.    ,Green (1000-1500 gpm)                             ,Green
+401244,100 NE Loop 286 /South Side             ,Green (1000-1500 gpm)                             ,Green
+401255,100 NE Loop 286 /North Side             ,Green (1000-1500 gpm)                             ,Green
+402001,NE 3rd ST & Lamar AVE                   ,Green (1000-1500 gpm)                             ,Green
+402003,NE 3rd ST & Lamar AVE                   ,Green (1000-1500 gpm)                             ,Green
+402009,NE 3rd ST & E Houston ST                ,Green (1000-1500 gpm)                             ,Green
+402018,NE 3rd ST & E Price ST                  ,Orange (500-1000 gpm)                             ,Orange
+402020,NE 2nd ST & E Price ST                  ,Orange (500-1000 gpm)                             ,Orange
+402022,NE 2nd ST & Pine Bluff ST               ,Green (1000-1500 gpm)                             ,Green
+402053,NE 3rd ST & E Tudor ST                  ,Green (1000-1500 gpm)                             ,Green
+402072,NE 2nd ST & E Provine ST                ,Orange (500-1000 gpm)                             ,Orange
+402125,200 Martin Luther King Jr. DR /N.S.     ,Green (1000-1500 gpm)                             ,Green
+402162,NE 2nd ST & E Center ST                 ,Green (1000-1500 gpm)                             ,Green
+402173,NE 3rd ST & E Oak AVE                   ,Blue (1500+ gpm)                                  ,Blue
+402188,NE 3rd ST & Clement RD                  ,Green (1000-1500 gpm)                             ,Green
+402244,"200 NE Loop 286 /South Side, Alltel     ",Green (1000-1500 gpm)                             ,Green
+402291,3201 Lewis LN /south west of HS building,Green (1000-1500 gpm)                             ,Green
+402293,3201 Lewis LN /south center of HS buildi,Green (1000-1500 gpm)                             ,Green
+402295,3201 Lewis LN /south east of HS building,Green (1000-1500 gpm)                             ,Green
+402297,3201 Lewis LN /east side of HS          ,Green (1000-1500 gpm)                             ,Green
+402301,3201 Lewis LN /north west of HS ag shop ,Green (1000-1500 gpm)                             ,Green
+402303,3201 Lewis LN /north HS parking lot ( by,Green (1000-1500 gpm)                             ,Green
+403022,NE 3rd ST & Pine Bluff ST               ,Green (1000-1500 gpm)                             ,Green
+403039,NE 4th ST & E Cherry ST                 ,Green (1000-1500 gpm)                             ,Green
+403108,NE 3rd ST & E Henderson ST              ,Green (1000-1500 gpm)                             ,Green
+403155,NE 3rd ST & E Hickory ST                ,Green (1000-1500 gpm)                             ,Green
+403286,300 Stone AVE                           ,Green (1000-1500 gpm)                             ,Green
+404011,NE 5th ST & E Houston ST                ,Green (1000-1500 gpm)                             ,Green
+404028,NE 5th ST & Pine Bluff ST               ,Green (1000-1500 gpm)                             ,Green
+404069,NE 5th ST & E Tudor ST                  ,Green (1000-1500 gpm)                             ,Green
+404081,NE 4th ST & E Provine ST                ,Green (1000-1500 gpm)                             ,Green
+404089,NE 4th ST & Grove ST                    ,Green (1000-1500 gpm)                             ,Green
+404099,NE 5th ST & E Garrett ST                ,Green (1000-1500 gpm)                             ,Green
+404109,NE 5th ST & E Henderson ST              ,Green (1000-1500 gpm)                             ,Green
+404118,NE 4th ST & E Henderson ST /north side o,Green (1000-1500 gpm)                             ,Green
+404123,400 Martin Luther King Jr. DR /400 block,Green (1000-1500 gpm)                             ,Green
+404125,400 Martin Luther King Jr. DR /400 block,Green (1000-1500 gpm)                             ,Green
+404213,2100 blk Fitzhugh AVE                   ,Blue (1500+ gpm)                                  ,Blue
+404284,400 Stone AVE                           ,Green (1000-1500 gpm)                             ,Green
+405012,NE 5th ST & E Price ST                  ,Black (0 - 375 gpm)                               ,Black
+405028,405028 NE 6th ST & Pine Bluff ST        ,Green (1000-1500 gpm)                             ,Green
+405039,NE 6th ST & E Cherry ST                 ,Black (0 - 375 gpm)                               ,Black
+405078,405078 NE 5th ST & Grove ST             ,Green (1000-1500 gpm)                             ,Green
+405089,NE 6th ST & Grove ST                    ,Green (1000-1500 gpm)                             ,Green
+405127,NE 6th ST & Martin Luther King Jr. DR   ,Green (1000-1500 gpm)                             ,Green
+405171,500 E Center ST /Inside Fair Grounds    ,Blue (1500+ gpm)                                  ,Blue
+405189,NE 6th ST & Clement RD                  ,Blue (1500+ gpm)                                  ,Blue
+405273,500 DeShong DR /Across street from 520 D,Unknown                                           ,Unknown
+405288,Stone AVE & Lewis LN                    ,Green (1000-1500 gpm)                             ,Green
+405289,2800 Stone AVE                          ,Unknown                                           ,Unknown
+406011,NE 6th ST & E Houston ST                ,Green (1000-1500 gpm)                             ,Green
+406018,NE 6th ST & E Price ST                  ,Green (1000-1500 gpm)                             ,Green
+406079,NE 7th ST & E Tudor ST                  ,Green (1000-1500 gpm)                             ,Green
+406122,NE 6th ST & Martin Luther King Jr. DR   ,Green (1000-1500 gpm)                             ,Green
+406139,NE 7th ST & Williams ST                 ,Green (1000-1500 gpm)                             ,Green
+406151,NE 6th ST & E Hickory ST                ,Green (1000-1500 gpm)                             ,Green
+406162,1600 NE 6th ST                          ,Green (1000-1500 gpm)                             ,Green
+406244,600 NE Loop 286 /South Side             ,Green (1000-1500 gpm)                             ,Green
+406272,Lewis LN & DeShong DR                   ,Unknown                                           ,Unknown
+406284,2890 Lewis LN                           ,Unknown                                           ,Unknown
+406293,2900 Lewis LN /Dialysis Center          ,Unknown                                           ,Unknown
+407021,NE 8th ST & E Price ST                  ,Orange (500-1000 gpm)                             ,Orange
+407028,NE 8th ST & Pine Bluff ST               ,Green (1000-1500 gpm)                             ,Green
+407049,NE 8th ST & E Booth ST                  ,Red (400-500 gpm)                                 ,Red
+407058,NE 7th ST & Booth LN                    ,Black (0 - 375 gpm)                               ,Black
+407088,NE 7th ST & Grove ST                    ,Black (0 - 375 gpm)                               ,Black
+407106,NE 7 1/2th ST & Ash ST                  ,Green (1000-1500 gpm)                             ,Green
+407107,71/2 NE 7 1/2th ST & Grove ST           ,Green (1000-1500 gpm)                             ,Green
+407111,NE 8th ST & Ash ST                      ,Orange (500-1000 gpm)                             ,Orange
+407112,NE 7th ST & Martin Luther King Jr. DR   ,Green (1000-1500 gpm)                             ,Green
+407119,NE 8th ST & Wood ST                     ,Orange (500-1000 gpm)                             ,Orange
+407122,NE 7th ST & Wood ST                     ,Green (1000-1500 gpm)                             ,Green
+407171,Clement RD /SE of Drill Tower on Fire Tr,Unknown                                           ,Unknown
+407175,Clement RD /N of Drill Tower on Fire Tra,Green (1000-1500 gpm)                             ,Green
+407185,Clement RD /N end of Fire Training Field,Black (0 - 375 gpm)                               ,Black
+407271,865 DeShong DR /Main Building S.W.      ,Green (1000-1500 gpm)                             ,Green
+407275,865 DeShong DR /PRMC North NW corner by ,Green (1000-1500 gpm)                             ,Green
+407282,865 DeShong DR /NE corner near maint.   ,Green (1000-1500 gpm)                             ,Green
+407294,3201 Lewis LN /Stone Middle West Parking,Green (1000-1500 gpm)                             ,Green
+407303,3201 Lewis LN /NL ISD Administration / E,Green (1000-1500 gpm)                             ,Green
+408012,NE 8th ST & E Houston ST                ,Green (1000-1500 gpm)                             ,Green
+408053,Fitzhugh AVE & E Booth ST /Booth        ,Green (1000-1500 gpm)                             ,Green
+408073,Fitzhugh AVE & E Tudor ST               ,Green (1000-1500 gpm)                             ,Green
+408142,1400 blk NE 8th ST /1400 blk            ,Orange (500-1000 gpm)                             ,Orange
+408153,800 E Hickory ST                        ,Unknown                                           ,Unknown
+408163,1600 blk Fitzhugh AVE /1600 Blk.        ,Green (1000-1500 gpm)                             ,Green
+408173,1700 blk Fitzhugh AVE /1700 Blk.        ,Green (1000-1500 gpm)                             ,Green
+408182,800 blk Clement RD /800 blk             ,Green (1000-1500 gpm)                             ,Green
+408193,Fitzhugh AVE & Clement RD               ,Green (1000-1500 gpm)                             ,Green
+408225,2200 Stillhouse RD /Dialysis Center East,Green (1000-1500 gpm)                             ,Green
+408227,2200 Stillhouse RD /SW corner of Loop & ,Green (1000-1500 gpm)                             ,Green
+408242,800 NE Loop 286 /South side of Loop     ,Green (1000-1500 gpm)                             ,Green
+408278,865 DeShong DR /West end of building    ,Green (1000-1500 gpm)                             ,Green
+408284,3201 Lewis LN /Fine Arts Bldg.          ,Green (1000-1500 gpm)                             ,Green
+408303,3201 Lewis LN /Front Bailey Middle Schoo,Green (1000-1500 gpm)                             ,Green
+408305,3201 Lewis LN /Bailey b/t class & gymn N,Green (1000-1500 gpm)                             ,Green
+409003,NE 10th ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+409012,NE 9th ST & E Houston ST                ,Green (1000-1500 gpm)                             ,Green
+409027,NE 10th ST & E Price ST                 ,Green (1000-1500 gpm)                             ,Green
+409028,NE 10th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+409094,Fitzhugh AVE & Grove ST                 ,Orange (500-1000 gpm)                             ,Orange
+409098,NE 10th ST & Grove ST                   ,Green (1000-1500 gpm)                             ,Green
+409114,Fitzhugh AVE & Martin Luther King Jr. DR,Green (1000-1500 gpm)                             ,Green
+409144,Fitzhugh AVE & E Hickory ST             ,Green (1000-1500 gpm)                             ,Green
+409243,Stillhouse RD & Levi LN                 ,Green (1000-1500 gpm)                             ,Green
+409246,2400 Stillhouse RD /Sterling House      ,Green (1000-1500 gpm)                             ,Green
+409262,865 DeShong DR /Main Building S.E.      ,Green (1000-1500 gpm)                             ,Green
+409275,865 DeShong DR /Main Building East End (,Green (1000-1500 gpm)                             ,Green
+409277,1025 DeShong DR /Race for Life (west sid,Green (1000-1500 gpm)                             ,Green
+410013,NE 11th ST & E Houston ST               ,Green (1000-1500 gpm)                             ,Green
+410017,145 NE 11th ST /west side of street     ,Green (1000-1500 gpm)                             ,Green
+410028,NE 11th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+410056,NE 10th ST & E Booth ST                 ,Orange (500-1000 gpm)                             ,Orange
+410064,1014 E Tudor ST /1000 Blk.              ,Green (1000-1500 gpm)                             ,Green
+410081,NE 11th ST & Belmont ST                 ,Green (1000-1500 gpm)                             ,Green
+410144,1430 NE 10th ST /1400 Blk.              ,Green (1000-1500 gpm)                             ,Green
+410157,NE 11th ST & E Hickory ST               ,Green (1000-1500 gpm)                             ,Green
+410163,NE 10th ST & E Center ST                ,Green (1000-1500 gpm)                             ,Green
+410184,NE 10th ST & Clement RD                 ,Green (1000-1500 gpm)                             ,Green
+410254,Lewis LN /Back of Cecil Everett / NW Cor,Green (1000-1500 gpm)                             ,Green
+410256,2510 Stillhouse RD /doctor swint        ,Green (1000-1500 gpm)                             ,Green
+410276,NE 11th ST & Levi LN                    ,Green (1000-1500 gpm)                             ,Green
+410293,3201 Lewis LN /Higgins/Southwest        ,Green (1000-1500 gpm)                             ,Green
+410295,1000 Cannon PL                          ,Green (1000-1500 gpm)                             ,Green
+411004,NE 12th ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+411028,NE 12th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+411045,423 NE 12th ST /400 blk                 ,Green (1000-1500 gpm)                             ,Green
+411066,NE 12th ST & E Tudor ST                 ,Green (1000-1500 gpm)                             ,Green
+411089,NE 12th ST & Belmont ST                 ,Unknown                                           ,Unknown
+411094,NE 11th ST & Grove ST                   ,Green (1000-1500 gpm)                             ,Green
+411096,NE 12th ST & Grove ST                   ,Green (1000-1500 gpm)                             ,Green
+411102,NE 11th ST & Van Zandt ST               ,Green (1000-1500 gpm)                             ,Green
+411112,NE 11th ST & Martin Luther King Jr. DR  ,Green (1000-1500 gpm)                             ,Green
+411142,1400 NE 11th ST                         ,Green (1000-1500 gpm)                             ,Green
+411146,NE 12th ST & E Hickory ST               ,Green (1000-1500 gpm)                             ,Green
+411233,1105 NE Loop 286 /Chilis                ,Green (1000-1500 gpm)                             ,Green
+411264,2600 Stillhouse RD /across from baseball,Green (1000-1500 gpm)                             ,Green
+411276,1100 Levi LN                            ,Green (1000-1500 gpm)                             ,Green
+412011,NE 13th ST & E Houston ST               ,Green (1000-1500 gpm)                             ,Green
+412091,NE 12th ST & Fairfax ST                 ,Green (1000-1500 gpm)                             ,Green
+412123,NE 12th ST & Martin Luther King Jr. DR  ,Green (1000-1500 gpm)                             ,Green
+412142,NE 12th ST & Johnson ST                 ,Green (1000-1500 gpm)                             ,Green
+412184,1200 Clement RD /1200 blk Clement       ,Green (1000-1500 gpm)                             ,Green
+412235,1200 NE Loop 286 /1200 blk loop (Movies ,Green (1000-1500 gpm)                             ,Green
+412237,1200 NE Loop 286 /1200 blk Loop (Movies ,Green (1000-1500 gpm)                             ,Green
+412274,2700 Stillhouse RD /2700 blk            ,Green (1000-1500 gpm)                             ,Green
+413018,NE 13th ST & E Price ST                 ,Green (1000-1500 gpm)                             ,Green
+413022,NE 13th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+413037,NE 14th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+413047,NE 14th ST & E Booth ST                 ,Green (1000-1500 gpm)                             ,Green
+413083,NE 14th ST & Belmont ST                 ,Green (1000-1500 gpm)                             ,Green
+413097,NE 14th ST & Grove ST                   ,Green (1000-1500 gpm)                             ,Green
+413152,NE 13th ST & E Hickory ST               ,Green (1000-1500 gpm)                             ,Green
+414072,NE 14th ST & E Tudor ST                 ,Orange (500-1000 gpm)                             ,Orange
+414091,NE 14th ST & Fairfax ST                 ,Orange (500-1000 gpm)                             ,Orange
+414123,NE 14th ST & Martin Luther King Jr. DR  ,Green (1000-1500 gpm)                             ,Green
+414141,NE 15th ST & Johnson ST                 ,Green (1000-1500 gpm)                             ,Green
+414151,NE 15th ST & E Hickory ST               ,Green (1000-1500 gpm)                             ,Green
+414184,1400 Clement RD /1400 blk. Clement Rd.  ,Green (1000-1500 gpm)                             ,Green
+414265,2810 Stillhouse RD /across from office  ,Green (1000-1500 gpm)                             ,Green
+414276,2810 Stillhouse RD /in front of building,Green (1000-1500 gpm)                             ,Green
+415006,1500 blk E Houston ST /N of Paris Altern,Green (1000-1500 gpm)                             ,Green
+415016,NE 15th ST & E Price ST                 ,Orange (500-1000 gpm)                             ,Orange
+415235,1505 NE Loop 286 /1505 Loop (Honda)     ,Green (1000-1500 gpm)                             ,Green
+416028,NE 17th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+416073,NE 17th ST & E Tudor ST                 ,Orange (500-1000 gpm)                             ,Orange
+416087,1600 Belmont ST & NE 17th ST            ,Unknown                                           ,Unknown
+416099,NE 17th ST & Grove ST                   ,Green (1000-1500 gpm)                             ,Green
+416189,NE 17th ST & Clement RD                 ,Green (1000-1500 gpm)                             ,Green
+416223,1625 NE Loop 286 /Morrell Auto Group    ,Green (1000-1500 gpm)                             ,Green
+416266,2810 Stillhouse RD /in front of building,Orange (500-1000 gpm)                             ,Orange
+416293,2885 Stillhouse RD /Brentwood Terrace   ,Orange (500-1000 gpm)                             ,Orange
+416295,2885 Stillhouse RD /Brentwood Terrace   ,Green (1000-1500 gpm)                             ,Green
+417016,100 NE 17th ST /100 Blk. 17th NE        ,Green (1000-1500 gpm)                             ,Green
+417042,NE 17th ST & E Cherry ST                ,Green (1000-1500 gpm)                             ,Green
+417123,NE 17th ST & Martin Luther King Jr. DR  ,Green (1000-1500 gpm)                             ,Green
+417148,1400 blk NE 17th ST                     ,Green (1000-1500 gpm)                             ,Green
+417152,Ballard DR & E Hickory ST               ,Green (1000-1500 gpm)                             ,Green
+417166,1600 blk NE 17th ST                     ,Green (1000-1500 gpm)                             ,Green
+418088,NE 18th ST & Fairfax ST                 ,Orange (500-1000 gpm)                             ,Orange
+418112,1800 blk Majestic DR                    ,Green (1000-1500 gpm)                             ,Green
+418205,1800 blk NE Loop 286 /trailer park      ,Green (1000-1500 gpm)                             ,Green
+418286,2900 Stillhouse RD /Paris Care Center   ,Green (1000-1500 gpm)                             ,Green
+418295,2900 Stillhouse RD /Paris Care Center   ,Green (1000-1500 gpm)                             ,Green
+419020,NE 19th ST & E Price ST                 ,Green (1000-1500 gpm)                             ,Green
+419042,NE 19th ST & E Cherry ST                ,Green (1000-1500 gpm)                             ,Green
+419043,NE 20th ST & E Cherry ST /NW corner     ,Green (1000-1500 gpm)                             ,Green
+419069,NE 20th ST & E Tudor ST                 ,Green (1000-1500 gpm)                             ,Green
+419105,1000blk NE 20th ST                      ,Green (1000-1500 gpm)                             ,Green
+419125,NE 20th ST & Martin Luther King Jr. DR  ,Green (1000-1500 gpm)                             ,Green
+419145,NE 20th ST & E Hickory ST /west side    ,Blue (1500+ gpm)                                  ,Blue
+419155,NE 20th ST & NE Loop 286 /SW            ,Green (1000-1500 gpm)                             ,Green
+419173,1700 NE 20th ST                         ,Green (1000-1500 gpm)                             ,Green
+420003,NE 21st ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+420018,NE 20th ST & E Price ST                 ,Green (1000-1500 gpm)                             ,Green
+420032,NE 20th ST & E Cherry ST /Cherry st S.E ,Green (1000-1500 gpm)                             ,Green
+420043,400 NE 21st ST                          ,Green (1000-1500 gpm)                             ,Green
+420136,1360 NE 20th ST /clow hydt.             ,Orange (500-1000 gpm)                             ,Orange
+420164,NE 20th ST & NE Loop 286 /NE            ,Green (1000-1500 gpm)                             ,Green
+420183,2000 NE Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+420195,2035 Spur 139 /Tractor Supply Parking Lo,Green (1000-1500 gpm)                             ,Green
+421045,2100 E Cherry ST /2100 E Cherry St. Mano,Green (1000-1500 gpm)                             ,Green
+421077,2100 E Cherry ST                        ,Green (1000-1500 gpm)                             ,Green
+421114,2200 NE Loop 286                        ,Blue (1500+ gpm)                                  ,Blue
+422014,2200 E Price ST                         ,Green (1000-1500 gpm)                             ,Green
+422030,2230 E. CHERRY                          ,Green (1000-1500 gpm)                             ,Green
+422045,2225 E Cherry ST                        ,Orange (500-1000 gpm)                             ,Orange
+422047,NE 23rd ST & Kimberly                   ,Green (1000-1500 gpm)                             ,Green
+422075,NE 25th ST /under water tower           ,Green (1000-1500 gpm)                             ,Green
+422088,"4200 blk Pine Mill RD /S side, W of Mock",Orange (500-1000 gpm)                             ,Orange
+422118,NE 22nd ST & Durango DR                 ,Green (1000-1500 gpm)                             ,Green
+422135,2225 Ballard DR                         ,Green (1000-1500 gpm)                             ,Green
+423035,2300 Pine Bluff ST                      ,Green (1000-1500 gpm)                             ,Green
+423098,2300 Briarwood DR /Durango              ,Green (1000-1500 gpm)                             ,Green
+423175,2313 NE Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+424012,2400 E Price ST                         ,Green (1000-1500 gpm)                             ,Green
+424041,NE 25th ST & E Cherry ST                ,Green (1000-1500 gpm)                             ,Green
+424061,600 NE 25th ST /600 at dp               ,Green (1000-1500 gpm)                             ,Green
+424072,2400 Highland RD                        ,Green (1000-1500 gpm)                             ,Green
+425004,NE 25th ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+425018,NE 25th ST & E Price ST                 ,Green (1000-1500 gpm)                             ,Green
+425033,NE 26th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+425041,NE 26th ST & E Cherry ST                ,Green (1000-1500 gpm)                             ,Green
+425094,NE 25th ST & Ridgeview RD               ,Green (1000-1500 gpm)                             ,Green
+425118,NE 25th ST & Cypress DR /cypress        ,Green (1000-1500 gpm)                             ,Green
+425131,NE 26th ST & Kessler DR                 ,Green (1000-1500 gpm)                             ,Green
+425144,NE 25th ST & Crescent DR                ,Green (1000-1500 gpm)                             ,Green
+426003,NE 27th ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+426037,NE 27th ST & E Cherry ST                ,Green (1000-1500 gpm)                             ,Green
+426092,2610 Briarwood DR /south side street    ,Green (1000-1500 gpm)                             ,Green
+426094,2625 Ridgeview RD                       ,Green (1000-1500 gpm)                             ,Green
+426104,2630 Ballard DR                         ,Green (1000-1500 gpm)                             ,Green
+426142,NE 26th ST & Crescent DR                ,Green (1000-1500 gpm)                             ,Green
+426159,NE 27th ST & E Hickory ST               ,Green (1000-1500 gpm)                             ,Green
+426178,"1700 NE 20th ST /NE Corner of ""1700 Plac",Green (1000-1500 gpm)                             ,Green
+426193,2625 Spur 139 /in front of Family fun ce,Green (1000-1500 gpm)                             ,Green
+427018,NE 27th ST & E Price ST                 ,Green (1000-1500 gpm)                             ,Green
+427100,2740 Briarwood DR /end of cul-de-sac    ,Orange (500-1000 gpm)                             ,Orange
+427136,1300 NE 27th ST /1300blk                ,Orange (500-1000 gpm)                             ,Orange
+427162,2755 NE Loop 286                        ,Green (1000-1500 gpm)                             ,Green
+427163,2775 NE LOOP 286 /( Young Atty Office ) ,Green (1000-1500 gpm)                             ,Green
+427194,Farm Road 195 & N Collegiate DR /east si,Green (1000-1500 gpm)                             ,Green
+427198,Willow BND /Oak Creek South             ,Green (1000-1500 gpm)                             ,Green
+428010,NE 28th ST & E Price ST                 ,Green (1000-1500 gpm)                             ,Green
+428038,NE 28th ST & Walnut ST                  ,Green (1000-1500 gpm)                             ,Green
+428092,NE 28th ST & Ridgeview RD               ,Green (1000-1500 gpm)                             ,Green
+428108,NE 28th ST & Ballard DR                 ,Green (1000-1500 gpm)                             ,Green
+428118,NE 28th ST & Cypress DR                 ,Green (1000-1500 gpm)                             ,Green
+428128,NE 28th ST & Kessler DR                 ,Green (1000-1500 gpm)                             ,Green
+428133,NE 29th ST & Kessler DR                 ,Green (1000-1500 gpm)                             ,Green
+428153,2800 NE Loop 286 /SE Corner Harley Shop ,Green (1000-1500 gpm)                             ,Green
+428182,N Collegiate DR & Fair Oaks ST          ,Green (1000-1500 gpm)                             ,Green
+428192,N Collegiate DR & Willow BND            ,Green (1000-1500 gpm)                             ,Green
+429003,Lamar AVE & N Collegiate DR             ,Green (1000-1500 gpm)                             ,Green
+429019,NE 30th ST & E Price ST                 ,Green (1000-1500 gpm)                             ,Green
+429023,N. COLLEGIATE AND PRICE                 ,Green (1000-1500 gpm)                             ,Green
+429025,200 N Collegiate DR /200blk             ,Green (1000-1500 gpm)                             ,Green
+429033,N Collegiate DR & E Cherry ST           ,Green (1000-1500 gpm)                             ,Green
+429039,NE 30th ST & E Cherry ST                ,Green (1000-1500 gpm)                             ,Green
+429053,2905 Pine Mill RD /surgical center      ,Unknown                                           ,Unknown
+429054,Pine Mill RD & N Collegiate DR          ,Green (1000-1500 gpm)                             ,Green
+429071,750 N Collegiate DR /Springlake Assist. ,Unknown                                           ,Unknown
+429073,700 N Collegiate DR /NE corner East Pari,Green (1000-1500 gpm)                             ,Green
+429093,N Collegiate DR & Briarwood DR          ,Green (1000-1500 gpm)                             ,Green
+429103,N Collegiate DR & Ballard DR            ,Green (1000-1500 gpm)                             ,Green
+429113,N Collegiate DR & Cypress DR            ,Green (1000-1500 gpm)                             ,Green
+429133,1300 N Collegiate DR /McKee's           ,Green (1000-1500 gpm)                             ,Green
+429155,NE 29th ST & NE Loop 286                ,Green (1000-1500 gpm)                             ,Green
+429185,1800 NE 30th ST /Oak Creek Dr           ,Green (1000-1500 gpm)                             ,Green
+429198,Willow BND /Oak Creek Dr. North         ,Green (1000-1500 gpm)                             ,Green
+429212,2900 Aspen ST                           ,Green (1000-1500 gpm)                             ,Green
+429220,2910 Meandering WAY /N of cul-de-sac    ,Green (1000-1500 gpm)                             ,Green
+430004,NE 30th ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+430007,3000 Lamar AVE /3095 Lamar              ,Green (1000-1500 gpm)                             ,Green
+430008,3000 E Houston ST                       ,Green (1000-1500 gpm)                             ,Green
+430033,NE 30th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+430037,3055 Aikin DR                           ,Green (1000-1500 gpm)                             ,Green
+430044,3000 Pine Mill RD /(Church )            ,Green (1000-1500 gpm)                             ,Green
+430085,800 Bunker ST                           ,Green (1000-1500 gpm)                             ,Green
+430097,NE 31st ST & Briarwood DR               ,Green (1000-1500 gpm)                             ,Green
+430098,Fairway ST & Briarwood DR               ,Green (1000-1500 gpm)                             ,Green
+430145,3015 NE Loop 286 /Texaco / Red River Rad,Green (1000-1500 gpm)                             ,Green
+430147,3025 NE Loop 286 /Holiday Inn Express   ,Green (1000-1500 gpm)                             ,Green
+430155,3035 NE Loop 286 /Comfort Inn Suites    ,Green (1000-1500 gpm)                             ,Green
+430166,3030 Wood HOLW                          ,Green (1000-1500 gpm)                             ,Green
+430178,NE 30th ST & Fair Oaks ST               ,Green (1000-1500 gpm)                             ,Green
+430196,Silverleaf DR & Oak Creek DR            ,Green (1000-1500 gpm)                             ,Green
+430198,Oak Creek DR & Aspen ST                 ,Green (1000-1500 gpm)                             ,Green
+430208,Aspen ST & Silverleaf DR                ,Green (1000-1500 gpm)                             ,Green
+431006,NE 31st ST & E Houston ST               ,Green (1000-1500 gpm)                             ,Green
+431008,NE 32nd ST & E Houston ST               ,Orange (500-1000 gpm)                             ,Orange
+431034,3100 Pine Mill RD & AIKIN SCHOOL (S.S.) ,Orange (500-1000 gpm)                             ,Orange
+431044,3100 Pine Mill RD /AIKIN SCHOOL (N. S.) ,Orange (500-1000 gpm)                             ,Orange
+431047,NE 32nd ST & Pine Mill RD               ,Green (1000-1500 gpm)                             ,Green
+431052,NE 31st ST & Pine Mill RD               ,Green (1000-1500 gpm)                             ,Green
+431065,3155 Pine Mill RD /West parking lot of C,Unknown                                           ,Unknown
+431073,700 NE 32nd ST                          ,Green (1000-1500 gpm)                             ,Green
+431112,3120 NE Loop 286 /NW Corner Home Depot  ,Green (1000-1500 gpm)                             ,Green
+431130,3100 NE Loop 286 /SW Corner of Jack In t,Green (1000-1500 gpm)                             ,Green
+431190,Briar Oak DR & Fair Oaks ST             ,Black (0 - 375 gpm)                               ,Black
+431254,3140 Farm Road 195                      ,Orange (500-1000 gpm)                             ,Orange
+432032,NE 32nd ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+432049,NE 33rd ST & Pine Mill RD               ,Green (1000-1500 gpm)                             ,Green
+432114,3120 NE Loop 286 /SE Corner Home Depot  ,Green (1000-1500 gpm)                             ,Green
+432116,3120 NE Loop 286 /Behind Home Depot     ,Green (1000-1500 gpm)                             ,Green
+432121,3235 NE Loop 286 /Toyota of Paris       ,Green (1000-1500 gpm)                             ,Green
+432123,3215 NE Loop 286 /Discount Tire         ,Green (1000-1500 gpm)                             ,Green
+432132,3205 NE Loop 286 /La Quinta             ,Green (1000-1500 gpm)                             ,Green
+432134,3205 NE Loop 286 /La Quinta Parking Lot ,Green (1000-1500 gpm)                             ,Green
+432233,Farm Road 195 & County Road 42250 /Count,Orange (500-1000 gpm)                             ,Orange
+432283,3200 Abby LN                            ,Orange (500-1000 gpm)                             ,Orange
+433022,NE 34th ST & Robin RD                   ,Green (1000-1500 gpm)                             ,Green
+433031,NE 33rd ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+433032,NE 34th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+433048,NE 34th ST & Pine Mill RD               ,Green (1000-1500 gpm)                             ,Green
+433091,NE 33rd ST & Ridgeview RD               ,Green (1000-1500 gpm)                             ,Green
+433104,3300 NE Loop 286 /Crosswire             ,Green (1000-1500 gpm)                             ,Green
+433112,3300 Park PL /East side of the street   ,Green (1000-1500 gpm)                             ,Green
+433122,Park PL & Boardwalk ST                  ,Green (1000-1500 gpm)                             ,Green
+433127,3300 NE Loop 286 /Toyota used cars      ,Green (1000-1500 gpm)                             ,Green
+433134,1400 Boardwalk ST /Across from 1315 Boar,Orange (500-1000 gpm)                             ,Orange
+433191,NE 34th ST & Clement RD                 ,Green (1000-1500 gpm)                             ,Green
+433282,NE 33rd ST & Abby LN                    ,Orange (500-1000 gpm)                             ,Orange
+433312,3200 NE 33rd ST                         ,Orange (500-1000 gpm)                             ,Orange
+434003,NE 35th ST & Lamar AVE                  ,Green (1000-1500 gpm)                             ,Green
+434032,NE 35th ST & Pine Bluff ST              ,Green (1000-1500 gpm)                             ,Green
+434049,NE 35th ST & Pine Mill RD               ,Green (1000-1500 gpm)                             ,Green
+434053,3400 Pine Mill RD /3400 Pine Mill Road (,Green (1000-1500 gpm)                             ,Green
+434078,3550 NE Loop 286 /Paris Regional Cancer ,Green (1000-1500 gpm)                             ,Green
+434083,3435 NE Loop 286 /Paris Orthopedic Clini,Green (1000-1500 gpm)                             ,Green
+434100,3447 Miller PL                          ,Green (1000-1500 gpm)                             ,Green
+434101,NE 34th ST & NE Loop 286                ,Green (1000-1500 gpm)                             ,Green
+434104,3411 NE LOOP 286 /Paris Ford            ,Green (1000-1500 gpm)                             ,Green
+434118,NE 34th ST & Vagas DR                   ,Green (1000-1500 gpm)                             ,Green
+434138,NE 34th ST & Reno DR                    ,Green (1000-1500 gpm)                             ,Green
+434168,NE 34th ST & E Oak AVE                  ,Green (1000-1500 gpm)                             ,Green
+435042,3561 NE Loop 286 /(BRAUMS)              ,Green (1000-1500 gpm)                             ,Green
+435043,3565 NE Loop 286 /Pizza Hut             ,Green (1000-1500 gpm)                             ,Green
+435046,3563 NE Loop 286 /Hampton Inn           ,Orange (500-1000 gpm)                             ,Orange
+435066,3555 NE Loop 286 /Paris Lumber          ,Green (1000-1500 gpm)                             ,Green
+435070,3500 Castlegate DR /End of Castlegate   ,Orange (500-1000 gpm)                             ,Orange
+435074,3505 NE Loop 286 /Comfort Inn           ,Green (1000-1500 gpm)                             ,Green
+435084,3500 NE Loop 286 /FISH FRY              ,Green (1000-1500 gpm)                             ,Green
+435110,NE 35th ST & Vagas DR                   ,Green (1000-1500 gpm)                             ,Green
+435112,NE 35th ST & Nevada DR                  ,Green (1000-1500 gpm)                             ,Green
+435138,NE 35th ST & Reno DR                    ,Green (1000-1500 gpm)                             ,Green
+435186,NE 36th ST & Clement RD                 ,Green (1000-1500 gpm)                             ,Green
+435215,2100 NE 36th ST                         ,Orange (500-1000 gpm)                             ,Orange
+435225,2245 NE 36th ST                         ,Orange (500-1000 gpm)                             ,Orange
+435243,2400 NE 36th ST                         ,Orange (500-1000 gpm)                             ,Orange
+435283,NE 36th ST & Farm Road 195              ,Orange (500-1000 gpm)                             ,Orange
+435285,3415 Darnell DR /westside               ,Orange (500-1000 gpm)                             ,Orange
+435289,Farm Road 195 & North Hills RD          ,Orange (500-1000 gpm)                             ,Orange
+435293,3500 Summerhill DR /3500 Summerhill Dr  ,Orange (500-1000 gpm)                             ,Orange
+435294,Abby LN & North Hills RD                ,Orange (500-1000 gpm)                             ,Orange
+436015,3697 Lamar AVE /Chism Square S.S        ,Orange (500-1000 gpm)                             ,Orange
+436295,3655 Darnell DR /north end [hydrant in f,Orange (500-1000 gpm)                             ,Orange
+437003,3855 Lamar AVE /SW Corner of Wal Mart   ,Green (1000-1500 gpm)                             ,Green
+437009,3755 Lamar AVE /Golden China            ,Green (1000-1500 gpm)                             ,Green
+437013,3855 Lamar AVE /WAL-MART (WEST SIDE)    ,Green (1000-1500 gpm)                             ,Green
+437014,3755 NE Loop 286 /Best Western          ,Green (1000-1500 gpm)                             ,Green
+437073,Castlegate DR & NE 38th ST              ,Orange (500-1000 gpm)                             ,Orange
+437091,3710 Woodland LN                        ,Orange (500-1000 gpm)                             ,Orange
+437188,NE 37th ST & Brownwood CIR              ,Orange (500-1000 gpm)                             ,Orange
+437203,3725 Eagle BND                          ,Orange (500-1000 gpm)                             ,Orange
+437209,NE 38th ST & Village BND                ,Orange (500-1000 gpm)                             ,Orange
+437308,Farm Road 195 & Wendy LN                ,Green (1000-1500 gpm)                             ,Green
+438003,3855 Lamar AVE /SE Front of Wal~Mart    ,Green (1000-1500 gpm)                             ,Green
+438013,3855 Lamar AVE /N.E.Rear of Wal-Mart    ,Orange (500-1000 gpm)                             ,Orange
+438015,3733 Lamar AVE /Chisum Square NE        ,Orange (500-1000 gpm)                             ,Orange
+438017,3745 Lamar AVE /Chisum Square SE (Jordan,Orange (500-1000 gpm)                             ,Orange
+438293,"3800 Summerhill DR /Paris, TX 75462     ",Orange (500-1000 gpm)                             ,Orange
+439001,3900 Lamar AVE /Applebee's              ,Green (1000-1500 gpm)                             ,Green
+439003,3900 Lamar AVE /Behind Applebee's       ,Green (1000-1500 gpm)                             ,Green
+440005,4000 Lamar AVE /Back of Four States     ,Green (1000-1500 gpm)                             ,Green
+440072,Castlegate DR /40th N.E.                ,Orange (500-1000 gpm)                             ,Orange
+440383,Farm Road 195 & Askins RD /Askin Road   ,Green (1000-1500 gpm)                             ,Green
+441002,4005 Lamar AVE /Four States SE Corner   ,Green (1000-1500 gpm)                             ,Green
+441003,NE 42nd ST & Lamar AVE                  ,Orange (500-1000 gpm)                             ,Orange
+441012,NE 42nd ST & Enchanted DR               ,Orange (500-1000 gpm)                             ,Orange
+441041,NE 42nd ST & Eastridge DR               ,Green (1000-1500 gpm)                             ,Green
+441071,42ND. NE 42nd ST & Castlegate DR        ,Orange (500-1000 gpm)                             ,Orange
+441083,Pine Mill RD /Station 2                 ,Orange (500-1000 gpm)                             ,Orange
+442043,4200 Sunrise DR                         ,Orange (500-1000 gpm)                             ,Orange
+442075,4200 Castlegate DR                      ,Orange (500-1000 gpm)                             ,Orange
+443118,Mockingbird LN & Noles                  ,Black (0 - 375 gpm)                               ,Black
+443145,1400 Cope DR                            ,Red (400-500 gpm)                                 ,Red
+443157,1500 Cope DR                            ,Red (400-500 gpm)                                 ,Red
+444362,Farm Road 195 & Greenwood LN            ,Green (1000-1500 gpm)                             ,Green
+445041,NE 46th ST & Thomas DR                  ,Black (0 - 375 gpm)                               ,Black
+445049,NE 46th ST & Welch CIR                  ,Black (0 - 375 gpm)                               ,Black
+445243,2415 Wildwood LN                        ,Orange (500-1000 gpm)                             ,Orange
+445247,2435 Wildwood LN                        ,Orange (500-1000 gpm)                             ,Orange
+446003,4600 Lamar AVE                          ,Green (1000-1500 gpm)                             ,Green
+446091,NE 46th ST & Pine Mill RD /North Side   ,Orange (500-1000 gpm)                             ,Orange
+446236,2360 Wildwood LN                        ,Orange (500-1000 gpm)                             ,Orange
+446343,2305 Wildwood LN                        ,Orange (500-1000 gpm)                             ,Orange
+446390,4605 Deer Haven LN /end of Cul de Sac   ,Orange (500-1000 gpm)                             ,Orange
+447384,3800 47TH N.E. (E.S.)                   ,Orange (500-1000 gpm)                             ,Orange
+447398,NE 47 & Deer Haven LN                   ,Green (1000-1500 gpm)                             ,Green
+448382,Farm Road 195 & NE 48th ST              ,Green (1000-1500 gpm)                             ,Green
+448388,3800 NE 48th ST                         ,Orange (500-1000 gpm)                             ,Orange
+452385,5220 Amherst CT                         ,Green (1000-1500 gpm)                             ,Green
+218165P        ,1415 SW 19th ST /Turner Industries      ,Green (1000-1500 gpm)                             ,Green
+218167P        ,1415 SW 19th ST /Turner Industries      ,Green (1000-1500 gpm)                             ,Green
+219142P        ,1200 SW 19th ST /TURNER PIPE SOUTHSIDE  ,Orange (500-1000 gpm)                             ,Orange
+219144P        ,1200 SW 19th ST /TURNER PIPE Under Crane,Orange (500-1000 gpm)                             ,Orange
+219146P        ,1200 SW 19th ST /TURNER PIPE West of Mai,Orange (500-1000 gpm)                             ,Orange
+219148P        ,1200 SW 19th ST /TURNER PIPE Southeast  ,Orange (500-1000 gpm)                             ,Orange
+223134P        ,1300 SW 19th ST /North side near powder ,Green (1000-1500 gpm)                             ,Green
+301263P        ,2100 N Main ST /AAA Storage             ,Unknown                                           ,Unknown
+319150P        ,1601 NW 19th ST /Flex O Lite            ,Green (1000-1500 gpm)                             ,Green
+319155P        ,1601 NW 19th ST                         ,Green (1000-1500 gpm)                             ,Green
+402283P        ,210 Stone AVE                           ,Green (1000-1500 gpm)                             ,Green
+402287P        ,210 Stone AVE                           ,Green (1000-1500 gpm)                             ,Green
